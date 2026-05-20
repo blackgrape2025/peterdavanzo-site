@@ -28,15 +28,6 @@ body {
   font-size: 1.9rem;
   font-weight: 400;
   letter-spacing: -0.03em;
-
-  text-decoration: none;
-  color: #1f1f1f;
-
-  transition: opacity 0.2s ease;
-}
-
-.logo:hover {
-  opacity: 0.55;
 }
 
 nav {
@@ -46,48 +37,31 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: rgba(0,0,0,0.82);
+  color: #222;
   font-size: 1rem;
-
-  transition: opacity 0.2s ease;
-}
-
-nav a:hover {
-  opacity: 0.45;
 }
 
 .hero {
   position: relative;
   height: 100vh;
-
   background-image: url('background.jpg');
   background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-
+  background-position: center;
   display: flex;
   align-items: center;
-
-  overflow: hidden;
 }
 
 .overlay {
   position: absolute;
   inset: 0;
-
   background: rgba(245,240,232,0.52);
-
-  backdrop-filter: blur(0.5px);
 }
 
 .hero-content {
   position: relative;
   z-index: 2;
-
   max-width: 760px;
-
   margin-left: 72px;
-  margin-top: 120px;
 }
 
 .hero h1 {
@@ -101,15 +75,14 @@ nav a:hover {
 .line {
   width: 70px;
   height: 1px;
-  background: rgba(0,0,0,0.28);
+  background: rgba(0,0,0,0.4);
   margin-bottom: 40px;
 }
 
 .hero p {
   font-size: 1.8rem;
   max-width: 620px;
-  color: rgba(0,0,0,0.68);
-  line-height: 1.6;
+  color: rgba(0,0,0,0.7);
 }
 
 .content {
@@ -121,7 +94,6 @@ nav a:hover {
   font-size: 1rem;
   letter-spacing: 0.25em;
   margin-bottom: 70px;
-  font-weight: 500;
 }
 
 article {
@@ -142,11 +114,6 @@ article a {
   font-size: 2.5rem;
   font-weight: 300;
   letter-spacing: -0.04em;
-  transition: opacity 0.2s ease;
-}
-
-article a:hover {
-  opacity: 0.5;
 }
 
 footer {
@@ -171,13 +138,13 @@ footer p {
 
 .essay-layout {
   display: grid;
-  grid-template-columns: 70% 30%;
+  grid-template-columns: 1fr 1fr;
   min-height: 100vh;
 }
 
 .essay-content {
-  padding: 180px 80px 140px 72px;
-  max-width: 860px;
+  padding: 180px 90px 120px 90px;
+  max-width: 760px;
 }
 
 .essay-content h1 {
@@ -190,7 +157,7 @@ footer p {
 
 .intro {
   font-size: 2rem;
-  color: rgba(0,0,0,0.58);
+  color: rgba(0,0,0,0.6);
   margin-bottom: 50px;
 }
 
@@ -200,22 +167,10 @@ footer p {
   line-height: 1.9;
 }
 
-.essay-content h2 {
-  margin-top: 70px;
-  margin-bottom: 30px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  font-size: 1rem;
-}
-
 .essay-image {
   background-image: url('background.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
-
-  opacity: 0.42;
-  filter: blur(1px);
 }
 
 @media (max-width: 900px) {
@@ -228,26 +183,12 @@ footer p {
     font-size: 1.3rem;
   }
 
-  .hero-content {
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 80px;
-  }
-
   .essay-layout {
     grid-template-columns: 1fr;
   }
 
   .essay-image {
     display: none;
-  }
-
-  .essay-content {
-    padding: 140px 40px;
-  }
-
-  nav {
-    gap: 18px;
   }
 
 }

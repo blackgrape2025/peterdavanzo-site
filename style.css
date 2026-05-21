@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background: #efe9e1;
+  background: #ece7df;
   color: #1f1f1f;
   overflow-x: hidden;
 }
@@ -36,6 +36,7 @@ a {
 .logo a {
   font-size: 20px;
   font-weight: 400;
+
   letter-spacing: -0.02em;
 
   transition: opacity 0.25s ease;
@@ -52,6 +53,7 @@ nav {
 
 nav a {
   font-size: 15px;
+
   color: rgba(0,0,0,0.74);
 
   transition:
@@ -70,7 +72,7 @@ nav a:hover {
   min-height: 100vh;
   overflow: hidden;
 
-  background: #efe9e1;
+  background: #ece7df;
 }
 
 .hero::before {
@@ -82,14 +84,15 @@ nav a:hover {
   background-image:
     linear-gradient(
       to right,
-      rgba(239,233,225,0.84) 0%,
-      rgba(239,233,225,0.32) 45%,
-      rgba(239,233,225,0.08) 100%
+      rgba(236,231,223,0.86) 0%,
+      rgba(236,231,223,0.34) 46%,
+      rgba(236,231,223,0.10) 100%
     ),
     url('background.jpg');
 
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .hero-content {
@@ -140,7 +143,7 @@ nav a:hover {
 /* ---------------- ESSAY PAGE ---------------- */
 
 .essay-page {
-  background: #efe9e1;
+  background: #ece7df;
 }
 
 .essay-layout {
@@ -165,14 +168,15 @@ nav a:hover {
   background:
     linear-gradient(
       to right,
-      rgba(239,233,225,0.97) 0%,
-      rgba(239,233,225,0.86) 62%,
-      rgba(239,233,225,0.22) 100%
+      rgba(236,231,223,0.97) 0%,
+      rgba(236,231,223,0.86) 62%,
+      rgba(236,231,223,0.22) 100%
     );
 }
 
 .meta {
   font-size: 13px;
+
   letter-spacing: 0.18em;
 
   color: rgba(0,0,0,0.5);
@@ -255,9 +259,9 @@ nav a:hover {
   background-image:
     linear-gradient(
       to right,
-      rgba(239,233,225,0.72) 0%,
-      rgba(239,233,225,0.18) 22%,
-      rgba(239,233,225,0.04) 100%
+      rgba(236,231,223,0.72) 0%,
+      rgba(236,231,223,0.18) 22%,
+      rgba(236,231,223,0.04) 100%
     ),
     url('background.jpg');
 
@@ -268,7 +272,7 @@ nav a:hover {
 /* ---------------- ESSAY INDEX PAGE ---------------- */
 
 .essay-index-page {
-  background: #efe9e1;
+  background: #ece7df;
 }
 
 .essay-index-layout {
@@ -293,9 +297,9 @@ nav a:hover {
   background:
     linear-gradient(
       to right,
-      rgba(239,233,225,0.97) 0%,
-      rgba(239,233,225,0.86) 62%,
-      rgba(239,233,225,0.22) 100%
+      rgba(236,231,223,0.97) 0%,
+      rgba(236,231,223,0.86) 62%,
+      rgba(236,231,223,0.22) 100%
     );
 }
 

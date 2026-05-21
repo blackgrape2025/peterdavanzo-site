@@ -153,9 +153,12 @@ nav a:hover {
     font-size: 44px;
   }
 
-  .hero p {
-    font-size: 21px;
+ .hero p {
+  font-size: 21px;
   }
+}
+
+  
 /* ---------------- ESSAY PAGE ---------------- */
 
 .essay-page {

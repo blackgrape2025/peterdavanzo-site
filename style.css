@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background: #ece7df;
+  background: #efe9e1;
   color: #1f1f1f;
   overflow-x: hidden;
 }
@@ -23,18 +23,24 @@ a {
   top: 0;
   left: 0;
   width: 100%;
+
   padding: 34px 42px;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
+
   z-index: 100;
 }
 
 .logo a {
   font-size: 20px;
   font-weight: 400;
+
   letter-spacing: -0.02em;
+
   text-decoration: none;
+
   transition: opacity 0.25s ease;
 }
 
@@ -49,13 +55,18 @@ nav {
 
 nav a {
   font-size: 15px;
-  color: rgba(0,0,0,0.85);
+
+  color: rgba(0,0,0,0.74);
+
   text-decoration: none;
-  transition: opacity 0.25s ease;
+
+  transition:
+    opacity 0.25s ease,
+    color 0.25s ease;
 }
 
 nav a:hover {
-  opacity: 0.45;
+  opacity: 0.48;
 }
 
 /* ---------------- HERO ---------------- */
@@ -64,20 +75,22 @@ nav a:hover {
   position: relative;
   min-height: 100vh;
   overflow: hidden;
-  background: #ece7df;
+
+  background: #efe9e1;
 }
 
 .hero::before {
   content: "";
+
   position: absolute;
   inset: 0;
 
   background-image:
     linear-gradient(
       to right,
-      rgba(236,231,223,0.82) 0%,
-      rgba(236,231,223,0.30) 45%,
-      rgba(236,231,223,0.08) 100%
+      rgba(239,233,225,0.84) 0%,
+      rgba(239,233,225,0.32) 45%,
+      rgba(239,233,225,0.08) 100%
     ),
     url('background.jpg');
 
@@ -89,86 +102,59 @@ nav a:hover {
   position: relative;
   z-index: 2;
 
-  padding-left: 58px;
-  padding-top: 300px;
+  padding-left: 64px;
+  padding-top: 240px;
 
-  max-width: 720px;
+  max-width: 680px;
 }
 
-.hero h1 {
-  font-size: 82px;
-  line-height: 0.96;
-  font-weight: 300;
-  letter-spacing: -0.055em;
-
-  margin-bottom: 42px;
-}
-
-.line {
-  width: 62px;
+.hero .line {
+  width: 56px;
   height: 1px;
 
-  background: rgba(0,0,0,0.25);
+  background: rgba(0,0,0,0.18);
 
-  margin-bottom: 42px;
+  margin-bottom: 58px;
 }
 
-.hero p {
-  font-size: 25px;
+.hero .intro {
+  font-size: 19px;
   line-height: 1.7;
 
-  max-width: 520px;
+  font-weight: 400;
+
+  letter-spacing: -0.02em;
+
+  margin-bottom: 56px;
+
+  color: rgba(0,0,0,0.86);
+}
+
+.hero .statement {
+  font-size: 22px;
+  line-height: 2.08;
+
+  font-weight: 300;
+
+  max-width: 560px;
 
   color: rgba(0,0,0,0.68);
 
-  font-weight: 300;
+  letter-spacing: -0.018em;
 }
 
-/* ---------------- RESPONSIVE ---------------- */
-
-@media (max-width: 1100px) {
-
-  .hero-content {
-    padding-top: 220px;
-    padding-left: 38px;
-    padding-right: 38px;
-  }
-
-  .hero h1 {
-    font-size: 58px;
-  }
-}
-
-@media (max-width: 700px) {
-
-  .topbar {
-    padding: 28px 24px;
-  }
-
-  nav {
-    gap: 22px;
-  }
-
-  .hero h1 {
-    font-size: 44px;
-  }
-
- .hero p {
-  font-size: 21px;
-  }
-}
-
-  
 /* ---------------- ESSAY PAGE ---------------- */
 
 .essay-page {
-  background: #ece7df;
+  background: #efe9e1;
 }
 
 .essay-layout {
   display: grid;
   grid-template-columns: 58% 42%;
+
   min-height: 100vh;
+
   position: relative;
   overflow: hidden;
 }
@@ -185,9 +171,9 @@ nav a:hover {
   background:
     linear-gradient(
       to right,
-      rgba(236,231,223,0.96) 0%,
-      rgba(236,231,223,0.82) 62%,
-      rgba(236,231,223,0.22) 100%
+      rgba(239,233,225,0.97) 0%,
+      rgba(239,233,225,0.86) 62%,
+      rgba(239,233,225,0.22) 100%
     );
 
   max-width: 100%;
@@ -195,7 +181,9 @@ nav a:hover {
 
 .meta {
   font-size: 13px;
+
   letter-spacing: 0.18em;
+
   color: rgba(0,0,0,0.5);
 
   margin-bottom: 38px;
@@ -204,7 +192,9 @@ nav a:hover {
 .essay-content h1 {
   font-size: 82px;
   line-height: 0.96;
+
   font-weight: 300;
+
   letter-spacing: -0.055em;
 
   max-width: 760px;
@@ -213,30 +203,45 @@ nav a:hover {
 }
 
 .essay-content .line {
-  width: 62px;
+  width: 56px;
   height: 1px;
 
-  background: rgba(0,0,0,0.25);
+  background: rgba(0,0,0,0.18);
 
-  margin-bottom: 42px;
+  margin-bottom: 58px;
 }
 
 .intro {
-  font-size: 24px;
+  font-size: 19px;
   line-height: 1.7;
 
-  color: rgba(0,0,0,0.58);
+  font-weight: 400;
 
-  max-width: 520px;
+  letter-spacing: -0.02em;
 
-  margin-bottom: 54px;
+  margin-bottom: 56px;
+
+  color: rgba(0,0,0,0.86);
+}
+
+.statement {
+  font-size: 22px;
+  line-height: 2.08;
+
+  font-weight: 300;
+
+  max-width: 560px;
+
+  color: rgba(0,0,0,0.68);
+
+  letter-spacing: -0.018em;
 }
 
 .essay-content p {
   font-size: 21px;
   line-height: 1.95;
 
-  color: rgba(0,0,0,0.86);
+  color: rgba(0,0,0,0.84);
 
   max-width: 680px;
 
@@ -256,9 +261,82 @@ nav a:hover {
   position: absolute;
   inset: 0;
 
-  background-image: url('background.jpg');
+  background-image:
+    linear-gradient(
+      to right,
+      rgba(239,233,225,0.72) 0%,
+      rgba(239,233,225,0.18) 22%,
+      rgba(239,233,225,0.04) 100%
+    ),
+    url('background.jpg');
+
   background-size: cover;
   background-position: center;
+}
 
-  filter: blur(0px);
+/* ---------------- RESPONSIVE ---------------- */
+
+@media (max-width: 1100px) {
+
+  .hero-content,
+  .essay-content {
+    padding-left: 38px;
+    padding-right: 38px;
+  }
+
+  .hero-content {
+    padding-top: 220px;
+  }
+
+  .essay-content {
+    padding-top: 190px;
+  }
+
+  .essay-layout {
+    grid-template-columns: 100%;
+  }
+
+  .essay-image {
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+
+  .topbar {
+    padding: 28px 24px;
+  }
+
+  nav {
+    gap: 22px;
+  }
+
+  .hero-content,
+  .essay-content {
+    padding-left: 34px;
+    padding-right: 34px;
+  }
+
+  .hero-content {
+    padding-top: 180px;
+  }
+
+  .essay-content {
+    padding-top: 160px;
+  }
+
+  .hero .statement,
+  .statement {
+    font-size: 20px;
+    line-height: 1.8;
+  }
+
+  .hero .intro,
+  .intro {
+    font-size: 18px;
+  }
+
+  .essay-content h1 {
+    font-size: 48px;
+  }
 }

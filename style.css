@@ -163,28 +163,11 @@ nav a:hover {
 }
 
 .essay-layout {
-  position: relative;
+  display: grid;
+  grid-template-columns: 58% 42%;
   min-height: 100vh;
+  position: relative;
   overflow: hidden;
-}
-
-.essay-layout::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  background-image:
-    linear-gradient(
-      to right,
-      rgba(236,231,223,0.92) 0%,
-      rgba(236,231,223,0.60) 42%,
-      rgba(236,231,223,0.14) 72%,
-      rgba(236,231,223,0.05) 100%
-    ),
-    url('background.jpg');
-
-  background-size: cover;
-  background-position: center;
 }
 
 .essay-content {
@@ -193,9 +176,18 @@ nav a:hover {
 
   padding-top: 170px;
   padding-left: 72px;
+  padding-right: 72px;
   padding-bottom: 140px;
 
-  max-width: 760px;
+  background:
+    linear-gradient(
+      to right,
+      rgba(236,231,223,0.96) 0%,
+      rgba(236,231,223,0.82) 62%,
+      rgba(236,231,223,0.22) 100%
+    );
+
+  max-width: 100%;
 }
 
 .meta {
@@ -248,4 +240,22 @@ nav a:hover {
   margin-bottom: 38px;
 
   font-weight: 300;
+}
+
+.essay-image {
+  position: relative;
+  overflow: hidden;
+}
+
+.essay-image::before {
+  content: "";
+
+  position: absolute;
+  inset: 0;
+
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+
+  filter: blur(0px);
 }

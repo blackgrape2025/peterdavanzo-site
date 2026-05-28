@@ -328,6 +328,31 @@ nav a:hover {
     );
 }
 
+.essay-index-image {
+  position: relative;
+  overflow: hidden;
+}
+
+.essay-index-image::before {
+  content: "";
+
+  position: absolute;
+  inset: 92px 0 0 0;
+
+  background-image:
+    linear-gradient(
+      to right,
+      rgba(236,231,223,0.72) 0%,
+      rgba(236,231,223,0.18) 22%,
+      rgba(236,231,223,0.04) 100%
+    ),
+    url('background.jpg');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .essay-index-content h1 {
   font-size: 64px;
   line-height: 1;
@@ -400,7 +425,8 @@ nav a:hover {
     grid-template-columns: 100%;
   }
 
-  .essay-image {
+  .essay-image,
+  .essay-index-image {
     display: none;
   }
 
@@ -464,7 +490,8 @@ nav a:hover {
   }
 
   .hero::before,
-  .essay-image::before {
+  .essay-image::before,
+  .essay-index-image::before {
     background-position: 68% center;
   }
 

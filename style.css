@@ -148,14 +148,14 @@ nav a:hover {
 
 .essay-layout {
   display: grid;
-  grid-template-columns: 58% 42%;
-
-  min-height: 100vh;
-
-  position: relative;
-  overflow: hidden;
+  grid-template-columns: 1.15fr 0.85fr;
 }
 
+.essay-content {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 120px 80px;
+}
 .essay-content {
   position: relative;
   z-index: 2;

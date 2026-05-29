@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ title }} | Peter Da Vanzo</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <a href="/">Peter Da Vanzo</a>
+    <nav>
+      <a href="/writing/">Writing</a>
+      <a href="/library/">Library</a>
+      <a href="/now/">Now</a>
+      <a href="/about/">About</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+</body>
+</html>

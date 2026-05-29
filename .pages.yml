@@ -71,8 +71,7 @@ content:
         label: Body
         type: rich-text
 
-
-          - name: about
+  - name: about
     label: About
     type: file
     path: content/about.md
@@ -85,10 +84,6 @@ content:
       - name: body
         label: Body
         type: rich-text
-
-
-
-
 
   - name: navigation
     label: Navigation

@@ -29,8 +29,18 @@
 
 <main class="essay-layout">
   <article class="essay-content">
-    {{ content | safe }}
-  </article>
+  <div class="meta">{{ date }}</div>
+
+  <h1>{{ title }}</h1>
+
+  <div class="line"></div>
+
+  {% if description %}
+    <p class="intro">{{ description }}</p>
+  {% endif %}
+
+  {{ content | safe }}
+</article>
 
   <aside class="essay-image"></aside>
 </main>

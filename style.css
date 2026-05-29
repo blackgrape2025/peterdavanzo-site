@@ -447,8 +447,8 @@ nav a:hover {
     line-height: 1.8;
   }
 
-  .essay-link h2 {
-    font-size: 24px;
+ .essay-link h2 {
+  font-size: 30px;
     line-height: 1.2;
   }
 
@@ -457,7 +457,8 @@ nav a:hover {
     line-height: 1.75;
   }
 
-  .essay-item {
-    margin-bottom: 54px;
-  }
+.essay-item {
+  margin-bottom: 64px;
+  padding-bottom: 42px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
 }

@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
   <title>{{ title }} | Peter Da Vanzo</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,7 +19,7 @@
     <a href="/">Peter Da Vanzo</a>
   </div>
 
-  <nav class="nav">
+  <nav>
     <a href="/writing/">Writing</a>
     <a href="/library/">Library</a>
     <a href="/now/">Now</a>
@@ -28,8 +27,12 @@
   </nav>
 </header>
 
-<main class="essay-shell">
-  {{ content | safe }}
+<main class="essay-layout">
+  <article class="essay-content">
+    {{ content | safe }}
+  </article>
+
+  <aside class="essay-image"></aside>
 </main>
 
 </body>

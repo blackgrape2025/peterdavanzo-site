@@ -72,12 +72,6 @@ content:
         type: rich-text
 
 
-
-  - name: navigation
-    label: Navigation
-    type: file
-    path: data/navigation.json
-    format: code
           - name: about
     label: About
     type: file
@@ -91,6 +85,16 @@ content:
       - name: body
         label: Body
         type: rich-text
+
+
+
+
+
+  - name: navigation
+    label: Navigation
+    type: file
+    path: data/navigation.json
+    format: code
 
 
     

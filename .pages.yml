@@ -1,0 +1,64 @@
+media: media
+
+content:
+  - name: writing
+    label: Writing
+    type: collection
+    path: content/writing
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: description
+        label: Description
+        type: text
+
+      - name: date
+        label: Date
+        type: date
+
+      - name: body
+        label: Body
+        type: rich-text
+
+  - name: library
+    label: Library
+    type: collection
+    path: content/library
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: author
+        label: Author
+        type: string
+
+      - name: description
+        label: Description
+        type: text
+
+      - name: date
+        label: Date
+        type: date
+
+      - name: body
+        label: Body
+        type: rich-text
+
+  - name: navigation
+    label: Navigation
+    type: file
+    path: data/navigation.json
+    format: code
+
+
+
+    

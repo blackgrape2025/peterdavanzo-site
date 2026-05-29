@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ title }} | Peter Da Vanzo</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/style.css"/>
+</head>
+
+<body class="essay-index-page">
+
+<header class="topbar">
+  <div class="logo">
+    <a href="/">Peter Da Vanzo</a>
+  </div>
+
+  <nav>
+    <a href="/writing/">Writing</a>
+    <a href="/library/">Library</a>
+    <a href="/now/">Now</a>
+    <a href="/about/">About</a>
+  </nav>
+</header>
+
+<main class="essay-index-layout">
+  <section class="essay-index-content">
+    {{ content | safe }}
+  </section>
+
+  <aside class="essay-index-image"></aside>
+</main>
+
+</body>
+</html>

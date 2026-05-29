@@ -78,7 +78,19 @@ content:
     type: file
     path: data/navigation.json
     format: code
+          - name: about
+    label: About
+    type: file
+    path: content/about.md
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
 
+      - name: body
+        label: Body
+        type: rich-text
 
 
     

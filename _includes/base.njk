@@ -1,23 +1,36 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>{{ title }} | Peter Da Vanzo</title>
-  <link rel="stylesheet" href="/style.css">
-</head>
-<body>
-  <header>
-    <a href="/">Peter Da Vanzo</a>
-    <nav>
-      <a href="/writing/">Writing</a>
-      <a href="/library/">Library</a>
-      <a href="/now/">Now</a>
-      <a href="/about/">About</a>
-    </nav>
-  </header>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-  <main>
-    {{ content | safe }}
-  </main>
+  <title>{{ title }} | Peter Da Vanzo</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/style.css"/>
+</head>
+
+<body class="essay-page">
+
+<header class="topbar">
+  <div class="logo">
+    <a href="/">Peter Da Vanzo</a>
+  </div>
+
+  <nav class="nav">
+    <a href="/writing/">Writing</a>
+    <a href="/library/">Library</a>
+    <a href="/now/">Now</a>
+    <a href="/about/">About</a>
+  </nav>
+</header>
+
+<main class="essay-shell">
+  {{ content | safe }}
+</main>
+
 </body>
 </html>

@@ -1,24 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
   <title>Peter Da Vanzo</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="/style.css"/>
 </head>
 
 <body class="home-page">
 
 <header class="topbar">
-
   <div class="logo">
     <a href="/">Peter Da Vanzo</a>
   </div>
@@ -29,41 +25,36 @@
     <a href="/now/">Now</a>
     <a href="/about/">About</a>
   </nav>
-
 </header>
 
-<main class="essay-index-layout">
+<main class="home-layout">
+  <section class="home-content">
 
-  <section class="essay-index-content home-content">
+    <p class="home-line">I seek the thing behind the thing.</p>
 
-    <p class="home-kicker">Peter Da Vanzo</p>
+    <nav class="home-sections">
+      <a href="/writing/">Writing</a>
+      <a href="/library/">Library</a>
+      <a href="/now/">Now</a>
+      <a href="/about/">About</a>
+    </nav>
 
-    <h1>Writer, musician, systems thinker.</h1>
+    <section class="home-recent">
+      <p class="home-label">RECENT</p>
 
-    <p class="home-intro">
-      I seek the thing behind the thing.
-    </p>
+      <article class="home-entry">
+        <a href="/writing/a-warm-room-would-be-nice/">
+          <h2>A Warm Room Would Be Nice</h2>
+          <time>30 May 2026</time>
+          <p>A small failure of interface design, and why primary function should come first.</p>
+        </a>
+      </article>
 
-    <div class="home-links">
-      <p><a href="/writing/">Writing</a> — essays and observations.</p>
-      <p><a href="/library/">Library</a> — books, references, interesting things.</p>
-      <p><a href="/now/">Now</a> — what I’m currently doing.</p>
-      <p><a href="/about/">About</a> — the longer version and contact details.</p>
-    </div>
-
-    <div class="home-recent">
-      <p class="home-label">Recent writing</p>
-
-      <a href="/writing/a-warm-room-would-be-nice/">
-        <h2>A Warm Room Would Be Nice</h2>
-        <p>A small failure of interface design, and why primary function should come first.</p>
-      </a>
-    </div>
+    </section>
 
   </section>
 
-  <aside class="essay-index-image"></aside>
-
+  <aside class="home-image"></aside>
 </main>
 
 </body>

@@ -465,87 +465,7 @@ nav a:hover {
 
 }
 
-/* ---------------- HOME PAGE REFINEMENT ---------------- */
-  /* ---------------- HOME PAGE REFINEMENT ---------------- */
-
-.home-page .essay-index-content {
-  padding-top: 170px;
-  padding-left: 72px;
-  padding-right: 72px;
-  max-width: none;
-}
-
-.home-content {
-  max-width: 620px;
-}
-
-.home-kicker {
-  font-size: 14px;
-  line-height: 1.4;
-  color: rgba(0,0,0,0.72);
-  margin-bottom: 18px;
-}
-
-.home-content h1 {
-  font-size: 42px;
-  line-height: 1.12;
-  font-weight: 300;
-  letter-spacing: -0.045em;
-  max-width: 520px;
-  margin-bottom: 42px;
-}
-
-.home-intro {
-  font-size: 19px;
-  line-height: 1.75;
-  font-weight: 300;
-  color: rgba(0,0,0,0.72);
-  max-width: 520px;
-  margin-bottom: 56px;
-}
-
-.home-links {
-  margin-bottom: 70px;
-}
-
-.home-links p {
-  font-size: 18px;
-  line-height: 1.85;
-  font-weight: 300;
-  color: rgba(0,0,0,0.72);
-  margin-bottom: 4px;
-}
-
-.home-links a {
-  font-weight: 400;
-  color: rgba(0,0,0,0.88);
-  border-bottom: 1px solid rgba(0,0,0,0.22);
-}
-
-.home-label {
-  font-size: 13px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: rgba(0,0,0,0.42);
-  margin-bottom: 22px;
-}
-
-.home-recent h2 {
-  font-size: 30px;
-  line-height: 1.18;
-  font-weight: 300;
-  letter-spacing: -0.04em;
-  margin-bottom: 14px;
-}
-
-.home-recent p {
-  font-size: 18px;
-  line-height: 1.8;
-  font-weight: 300;
-  color: rgba(0,0,0,0.64);
-  max-width: 500px;
-}
-  /* ---------------- HOME PAGE ---------------- */
+/* ---------------- HOME PAGE ---------------- */
 
 .home-page {
   background: #ece7df;
@@ -558,82 +478,81 @@ nav a:hover {
 }
 
 .home-content {
-  padding-top: 190px;
+  padding-top: 145px;
   padding-left: 72px;
   padding-right: 90px;
   padding-bottom: 120px;
-  max-width: 680px;
+  max-width: 600px;
 }
 
 .home-line {
-  font-size: 22px;
-  line-height: 1.65;
+  font-size: 25px;
+  line-height: 1.55;
   font-weight: 300;
-  letter-spacing: -0.025em;
+  letter-spacing: -0.035em;
   color: rgba(0,0,0,0.82);
-  margin-bottom: 46px;
+  margin-bottom: 54px;
 }
 
 .home-sections {
   display: flex;
   flex-direction: column;
-  gap: 18px;
-  margin-bottom: 96px;
+  gap: 16px;
+  margin-bottom: 82px;
 }
 
 .home-sections a {
   font-size: 25px;
-  line-height: 1.2;
+  line-height: 1.22;
   font-weight: 300;
   letter-spacing: -0.035em;
-  color: rgba(0,0,0,0.88);
+  color: rgba(0,0,0,0.86);
 }
 
 .home-sections a:hover {
-  opacity: 0.55;
+  opacity: 0.52;
 }
 
 .home-label {
-  font-size: 13px;
-  letter-spacing: 0.22em;
+  font-size: 12px;
+  letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: rgba(0,0,0,0.46);
-  margin-bottom: 34px;
+  color: rgba(0,0,0,0.38);
+  margin-bottom: 32px;
 }
 
 .home-entry {
-  border-bottom: 1px solid rgba(0,0,0,0.18);
-  padding-bottom: 34px;
-  margin-bottom: 38px;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 .home-entry h2 {
-  font-size: 28px;
-  line-height: 1.18;
+  font-size: 29px;
+  line-height: 1.16;
   font-weight: 300;
-  letter-spacing: -0.035em;
-  margin-bottom: 16px;
+  letter-spacing: -0.04em;
+  margin-bottom: 14px;
   color: rgba(0,0,0,0.9);
 }
 
 .home-entry time {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   font-style: italic;
-  color: rgba(0,0,0,0.58);
-  margin-bottom: 16px;
+  color: rgba(0,0,0,0.48);
+  margin-bottom: 15px;
 }
 
 .home-entry p {
   font-size: 17px;
-  line-height: 1.65;
+  line-height: 1.68;
   font-weight: 300;
-  color: rgba(0,0,0,0.68);
-  max-width: 390px;
+  color: rgba(0,0,0,0.62);
+  max-width: 430px;
 }
 
 .home-entry a:hover h2 {
-  opacity: 0.6;
+  opacity: 0.58;
 }
 
 .home-image {
@@ -648,9 +567,9 @@ nav a:hover {
   background-image:
     linear-gradient(
       to right,
-      rgba(236,231,223,0.82) 0%,
-      rgba(236,231,223,0.34) 34%,
-      rgba(236,231,223,0.08) 100%
+      rgba(236,231,223,0.88) 0%,
+      rgba(236,231,223,0.42) 34%,
+      rgba(236,231,223,0.12) 100%
     ),
     url('/background.jpg');
   background-size: cover;
@@ -669,14 +588,11 @@ nav a:hover {
   }
 
   .home-content {
-    padding: 150px 32px 90px;
+    padding: 145px 32px 90px;
   }
 
-  .home-line {
-    font-size: 21px;
-  }
-
+  .home-line,
   .home-sections a {
-    font-size: 24px;
+    font-size: 23px;
   }
 }

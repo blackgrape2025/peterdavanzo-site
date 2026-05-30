@@ -13,9 +13,11 @@ bodyClass: essay-page
 
     <div class="line"></div>
 
-    {% if description %}
-      <p class="intro">{{ description }}</p>
-    {% endif %}
+  {% if description %}
+<div class="tldr">
+  <strong>TL;DR:</strong> {{ description }}
+</div>
+{% endif %}
 
     {{ content | safe }}
   </article>

@@ -1,9 +1,9 @@
 ---
 title: A Warm Room Would Be Nice
+description: Prioritise primary function on interfaces. On a cold night, “heat
+  the room” should outrank every other feature.
 date: 2026-05-30
 ---
-# **TL;DR:** Prioritise primary function on interfaces. On a cold night, “heat the room” should outrank every other feature.
-
 It’s winter. I have a heat pump. I’m staring at the remote.
 
 It has many options, but the only one I’m interested in is “make the room warmer”. The heat pump isn’t co-operating.

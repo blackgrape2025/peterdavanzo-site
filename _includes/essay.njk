@@ -1,0 +1,24 @@
+---
+layout: base.njk
+bodyClass: essay-page
+---
+
+<main class="essay-layout">
+  <article class="essay-content">
+    {% if date %}
+      <div class="meta">{{ date | readableDate }}</div>
+    {% endif %}
+
+    <h1>{{ title }}</h1>
+
+    <div class="line"></div>
+
+    {% if description %}
+      <p class="intro">{{ description }}</p>
+    {% endif %}
+
+    {{ content | safe }}
+  </article>
+
+  <aside class="essay-image"></aside>
+</main>

@@ -1,5 +1,5 @@
 {
-  "layout": "base.njk",
+ "layout": "essay.njk",
   "tags": "writing",
   "permalink": "/writing/{{ page.fileSlug }}/",
   "eleventyComputed": {

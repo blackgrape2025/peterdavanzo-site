@@ -462,3 +462,89 @@ nav a:hover {
   padding-bottom: 42px;
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
+/* ==========================
+   HOMEPAGE
+========================== */
+
+.home-content {
+  max-width: 720px;
+  padding-top: 120px;
+}
+
+.home-kicker {
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #8c857c;
+  margin-bottom: 40px;
+}
+
+.home-content h1 {
+  font-size: 4.5rem;
+  line-height: 0.95;
+  font-weight: 300;
+  letter-spacing: -0.04em;
+  color: #222;
+  margin-bottom: 28px;
+}
+
+.home-intro {
+  font-size: 1.35rem;
+  line-height: 1.8;
+  color: #444;
+  max-width: 620px;
+  margin-bottom: 80px;
+}
+
+.home-links {
+  margin-bottom: 90px;
+}
+
+.home-links p {
+  font-size: 1.15rem;
+  line-height: 2.0;
+  margin: 0;
+}
+
+.home-links a {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.home-links a:hover {
+  border-bottom-color: #222;
+}
+
+.home-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #8c857c;
+  margin-bottom: 24px;
+}
+
+.home-recent h2 {
+  font-size: 3rem;
+  line-height: 1.05;
+  font-weight: 300;
+  letter-spacing: -0.03em;
+  color: #222;
+  margin-bottom: 18px;
+}
+
+.home-recent p {
+  font-size: 1.15rem;
+  line-height: 1.9;
+  color: #555;
+  max-width: 560px;
+}
+
+.home-recent a {
+  text-decoration: none;
+}
+
+.home-recent a:hover h2 {
+  opacity: 0.8;
+}

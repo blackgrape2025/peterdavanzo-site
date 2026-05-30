@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="/style.css"/>
 </head>
 
-<body class="essay-page">
+<body class="{{ bodyClass | default('essay-page') }}">
 
 <header class="topbar">
   <div class="logo">
@@ -27,23 +27,7 @@
   </nav>
 </header>
 
-<main class="essay-layout">
-  <article class="essay-content">
-  <div class="meta">{{ date | readableDate }}</div>
-
-  <h1>{{ title }}</h1>
-
-  <div class="line"></div>
-
-  {% if description %}
-    <p class="intro">{{ description }}</p>
-  {% endif %}
-
-  {{ content | safe }}
-</article>
-
-  <aside class="essay-image"></aside>
-</main>
+{{ content | safe }}
 
 </body>
 </html>

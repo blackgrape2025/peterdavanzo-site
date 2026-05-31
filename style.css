@@ -498,7 +498,7 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   gap: 17px;
-  margin-bottom: 92px;
+  margin-bottom: 64px;
 }
 
 .home-sections a {
@@ -518,7 +518,7 @@ nav a:hover {
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: rgba(0,0,0,0.34);
-  margin-bottom: 36px;
+  margin-bottom: 24px;
 }
 
 .home-entry {
@@ -527,8 +527,7 @@ nav a:hover {
 }
 
 .home-entry h2 {
-    font-size: 35px;
-}
+  font-size: 26px;
   line-height: 1.14;
   font-weight: 300;
   letter-spacing: -0.04em;
@@ -550,7 +549,7 @@ nav a:hover {
   line-height: 1.72;
   font-weight: 300;
   color: rgba(0,0,0,0.62);
-  max-width: 340px;
+  max-width: 440px;
 }
 
 .home-entry a:hover h2 {

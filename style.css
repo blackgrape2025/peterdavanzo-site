@@ -527,7 +527,8 @@ nav a:hover {
 }
 
 .home-entry h2 {
-  font-size: 31px;
+    font-size: 35px;
+}
   line-height: 1.14;
   font-weight: 300;
   letter-spacing: -0.04em;
@@ -549,7 +550,7 @@ nav a:hover {
   line-height: 1.72;
   font-weight: 300;
   color: rgba(0,0,0,0.62);
-  max-width: 410px;
+  max-width: 340px;
 }
 
 .home-entry a:hover h2 {

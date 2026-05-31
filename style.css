@@ -491,7 +491,7 @@ nav a:hover {
   font-weight: 300;
   letter-spacing: -0.025em;
   color: rgba(0,0,0,0.78);
-  margin-bottom: 58px;
+  margin-bottom: 40px;
 }
 
 .home-sections {
@@ -502,8 +502,8 @@ nav a:hover {
 }
 
 .home-sections a {
-  font-size: 24px;
-  line-height: 1.2;
+  font-size: 21px;
+  line-height: 1.25;
   font-weight: 300;
   letter-spacing: -0.03em;
   color: rgba(0,0,0,0.84);
@@ -539,7 +539,7 @@ nav a:hover {
 .home-entry time {
   display: block;
   font-size: 13px;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   color: rgba(0,0,0,0.42);
   margin-bottom: 18px;

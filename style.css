@@ -73,11 +73,10 @@ nav a:hover {
 }
 
 .home-content {
-  padding-top: 132px;
-  padding-left: 72px;
-  padding-right: 90px;
+  padding-top: 60px;
+  padding-left: 95px;
   padding-bottom: 120px;
-  max-width: 540px;
+  max-width: 430px;
 }
 
 .home-line {

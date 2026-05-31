@@ -63,127 +63,158 @@ nav a:hover {
 /* ---------------- HOME PAGE ---------------- */
 
 .home-page {
-  background: #ece7df;
-}
-
-.home-layout {
-  display: grid;
-  grid-template-columns: 54% 46%;
   min-height: 100vh;
+  background: #ece7df;
+  font-family: 'Inter', sans-serif;
+  color: #1f1f1f;
+  overflow-x: hidden;
 }
 
-.home-content {
-  padding-top: 60px;
-  padding-left: 95px;
-  padding-bottom: 120px;
-  max-width: 430px;
+.home-page::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image:
+    linear-gradient(
+      to right,
+      rgba(236,231,223,0.98) 0%,
+      rgba(236,231,223,0.90) 34%,
+      rgba(236,231,223,0.42) 62%,
+      rgba(236,231,223,0.08) 100%
+    ),
+    url('/background.jpg');
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat;
 }
 
-.home-line {
-  font-size: 22px;
-  line-height: 1.55;
+.home-shell {
+  width: min(620px, calc(100vw - 64px));
+  margin: 0 auto;
+  padding: 92px 0 120px;
+}
+
+.home-header {
+  text-align: center;
+  margin-bottom: 92px;
+}
+
+.home-header h1 {
+  font-size: 54px;
+  line-height: 1.05;
   font-weight: 300;
-  letter-spacing: -0.025em;
-  color: rgba(0,0,0,0.78);
-  margin-bottom: 42px;
+  letter-spacing: -0.06em;
+  margin-bottom: 54px;
 }
 
-.home-sections {
+.home-nav {
   display: flex;
-  flex-direction: column;
-  gap: 16px;
-  margin-bottom: 68px;
+  justify-content: center;
+  gap: 64px;
 }
 
-.home-sections a {
-  font-size: 20px;
-  line-height: 1.25;
+.home-nav a {
+  font-size: 24px;
+  line-height: 1;
   font-weight: 300;
-  letter-spacing: -0.025em;
-  color: rgba(0,0,0,0.78);
+  letter-spacing: -0.035em;
+  color: rgba(0,0,0,0.88);
+  text-decoration: none;
 }
 
-.home-sections a:hover {
-  opacity: 0.52;
+.home-nav a:hover {
+  opacity: 0.55;
+}
+
+.home-recent {
+  width: 100%;
 }
 
 .home-label {
-  font-size: 11px;
-  letter-spacing: 0.22em;
+  font-size: 13px;
+  line-height: 1;
+  letter-spacing: 0.28em;
   text-transform: uppercase;
-  color: rgba(0,0,0,0.32);
-  margin-bottom: 22px;
+  font-weight: 500;
+  color: rgba(0,0,0,0.42);
+  margin-bottom: 44px;
+}
+
+.home-entry {
+  padding-bottom: 48px;
+  margin-bottom: 48px;
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+}
+
+.home-entry a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
 }
 
 .home-entry h2 {
-  font-size: 27px;
+  font-size: 30px;
   line-height: 1.16;
   font-weight: 300;
-  letter-spacing: -0.04em;
-  margin-bottom: 14px;
-  color: rgba(0,0,0,0.88);
+  letter-spacing: -0.045em;
+  color: rgba(0,0,0,0.92);
+  margin-bottom: 22px;
 }
 
 .home-entry time {
   display: block;
-  font-size: 13px;
-  letter-spacing: 0.04em;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: rgba(0,0,0,0.42);
-  margin-bottom: 18px;
+  color: rgba(0,0,0,0.52);
+  margin-bottom: 22px;
 }
 
 .home-entry p {
-  font-size: 17px;
-  line-height: 1.72;
+  font-size: 18px;
+  line-height: 1.75;
   font-weight: 300;
-  color: rgba(0,0,0,0.62);
-  max-width: 420px;
+  letter-spacing: -0.01em;
+  color: rgba(0,0,0,0.66);
+  max-width: 360px;
 }
 
 .home-entry a:hover h2 {
   opacity: 0.58;
 }
 
-.home-image {
-  position: relative;
-  overflow: hidden;
-}
-
-.home-image::before {
-  content: "";
-  position: absolute;
-  inset: 92px 0 0 0;
-  background-image:
-    linear-gradient(
-      to right,
-      rgba(236,231,223,0.90) 0%,
-      rgba(236,231,223,0.50) 36%,
-      rgba(236,231,223,0.16) 100%
-    ),
-    url('/background.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-@media (max-width: 900px) {
-  .home-layout {
-    grid-template-columns: 1fr;
+@media (max-width: 700px) {
+  .home-shell {
+    width: calc(100vw - 48px);
+    padding: 64px 0 90px;
   }
 
-  .home-image {
-    display: none;
+  .home-header {
+    margin-bottom: 76px;
   }
 
-  .home-content {
-    padding: 140px 32px 90px;
-    max-width: 560px;
+  .home-header h1 {
+    font-size: 38px;
+    margin-bottom: 38px;
   }
 
-  .home-line,
-  .home-sections a {
-    font-size: 21px;
+  .home-nav {
+    gap: 26px;
+    flex-wrap: wrap;
+  }
+
+  .home-nav a {
+    font-size: 19px;
+  }
+
+  .home-entry h2 {
+    font-size: 26px;
+  }
+
+  .home-entry p {
+    max-width: 100%;
   }
 }
 /* ---------------- ESSAY PAGE ---------------- */

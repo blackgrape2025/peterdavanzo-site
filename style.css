@@ -478,35 +478,35 @@ nav a:hover {
 }
 
 .home-content {
-  padding-top: 145px;
+  padding-top: 138px;
   padding-left: 72px;
   padding-right: 90px;
   padding-bottom: 120px;
-  max-width: 600px;
+  max-width: 560px;
 }
 
 .home-line {
-  font-size: 25px;
+  font-size: 22px;
   line-height: 1.55;
   font-weight: 300;
-  letter-spacing: -0.035em;
-  color: rgba(0,0,0,0.82);
-  margin-bottom: 54px;
+  letter-spacing: -0.025em;
+  color: rgba(0,0,0,0.78);
+  margin-bottom: 58px;
 }
 
 .home-sections {
   display: flex;
   flex-direction: column;
-  gap: 16px;
-  margin-bottom: 82px;
+  gap: 17px;
+  margin-bottom: 92px;
 }
 
 .home-sections a {
-  font-size: 25px;
-  line-height: 1.22;
+  font-size: 24px;
+  line-height: 1.2;
   font-weight: 300;
-  letter-spacing: -0.035em;
-  color: rgba(0,0,0,0.86);
+  letter-spacing: -0.03em;
+  color: rgba(0,0,0,0.84);
 }
 
 .home-sections a:hover {
@@ -514,11 +514,11 @@ nav a:hover {
 }
 
 .home-label {
-  font-size: 12px;
-  letter-spacing: 0.18em;
+  font-size: 11px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: rgba(0,0,0,0.38);
-  margin-bottom: 32px;
+  color: rgba(0,0,0,0.34);
+  margin-bottom: 36px;
 }
 
 .home-entry {
@@ -527,28 +527,29 @@ nav a:hover {
 }
 
 .home-entry h2 {
-  font-size: 29px;
-  line-height: 1.16;
+  font-size: 31px;
+  line-height: 1.14;
   font-weight: 300;
   letter-spacing: -0.04em;
-  margin-bottom: 14px;
+  margin-bottom: 16px;
   color: rgba(0,0,0,0.9);
 }
 
 .home-entry time {
   display: block;
-  font-size: 14px;
-  font-style: italic;
-  color: rgba(0,0,0,0.48);
-  margin-bottom: 15px;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(0,0,0,0.42);
+  margin-bottom: 18px;
 }
 
 .home-entry p {
   font-size: 17px;
-  line-height: 1.68;
+  line-height: 1.72;
   font-weight: 300;
   color: rgba(0,0,0,0.62);
-  max-width: 430px;
+  max-width: 410px;
 }
 
 .home-entry a:hover h2 {
@@ -567,9 +568,9 @@ nav a:hover {
   background-image:
     linear-gradient(
       to right,
-      rgba(236,231,223,0.88) 0%,
-      rgba(236,231,223,0.42) 34%,
-      rgba(236,231,223,0.12) 100%
+      rgba(236,231,223,0.90) 0%,
+      rgba(236,231,223,0.48) 34%,
+      rgba(236,231,223,0.16) 100%
     ),
     url('/background.jpg');
   background-size: cover;
@@ -577,7 +578,6 @@ nav a:hover {
   background-repeat: no-repeat;
 }
 
-/* Home mobile */
 @media (max-width: 900px) {
   .home-layout {
     grid-template-columns: 1fr;
@@ -588,11 +588,12 @@ nav a:hover {
   }
 
   .home-content {
-    padding: 145px 32px 90px;
+    padding: 140px 32px 90px;
+    max-width: 560px;
   }
 
   .home-line,
   .home-sections a {
-    font-size: 23px;
+    font-size: 22px;
   }
 }

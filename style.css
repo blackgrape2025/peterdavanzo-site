@@ -62,63 +62,131 @@ nav a:hover {
 
 /* ---------------- HOME PAGE ---------------- */
 
-.hero {
-  position: relative;
-  min-height: 100vh;
-  overflow: hidden;
+.home-page {
   background: #ece7df;
 }
 
-.hero::before {
+.home-layout {
+  display: grid;
+  grid-template-columns: 54% 46%;
+  min-height: 100vh;
+}
+
+.home-content {
+  padding-top: 132px;
+  padding-left: 72px;
+  padding-right: 90px;
+  padding-bottom: 120px;
+  max-width: 540px;
+}
+
+.home-line {
+  font-size: 22px;
+  line-height: 1.55;
+  font-weight: 300;
+  letter-spacing: -0.025em;
+  color: rgba(0,0,0,0.78);
+  margin-bottom: 42px;
+}
+
+.home-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 68px;
+}
+
+.home-sections a {
+  font-size: 20px;
+  line-height: 1.25;
+  font-weight: 300;
+  letter-spacing: -0.025em;
+  color: rgba(0,0,0,0.78);
+}
+
+.home-sections a:hover {
+  opacity: 0.52;
+}
+
+.home-label {
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: rgba(0,0,0,0.32);
+  margin-bottom: 22px;
+}
+
+.home-entry h2 {
+  font-size: 27px;
+  line-height: 1.16;
+  font-weight: 300;
+  letter-spacing: -0.04em;
+  margin-bottom: 14px;
+  color: rgba(0,0,0,0.88);
+}
+
+.home-entry time {
+  display: block;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: rgba(0,0,0,0.42);
+  margin-bottom: 18px;
+}
+
+.home-entry p {
+  font-size: 17px;
+  line-height: 1.72;
+  font-weight: 300;
+  color: rgba(0,0,0,0.62);
+  max-width: 420px;
+}
+
+.home-entry a:hover h2 {
+  opacity: 0.58;
+}
+
+.home-image {
+  position: relative;
+  overflow: hidden;
+}
+
+.home-image::before {
   content: "";
   position: absolute;
-  inset: 0;
+  inset: 92px 0 0 0;
   background-image:
     linear-gradient(
       to right,
-      rgba(236,231,223,0.86) 0%,
-      rgba(236,231,223,0.34) 46%,
-      rgba(236,231,223,0.10) 100%
+      rgba(236,231,223,0.90) 0%,
+      rgba(236,231,223,0.50) 36%,
+      rgba(236,231,223,0.16) 100%
     ),
-    url('background.jpg');
+    url('/background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
-.hero-content {
-  position: relative;
-  z-index: 2;
-  padding-left: 64px;
-  padding-top: 240px;
-  max-width: 680px;
-}
+@media (max-width: 900px) {
+  .home-layout {
+    grid-template-columns: 1fr;
+  }
 
-.hero .line {
-  width: 56px;
-  height: 1px;
-  background: rgba(0,0,0,0.18);
-  margin-bottom: 58px;
-}
+  .home-image {
+    display: none;
+  }
 
-.hero .intro {
-  font-size: 19px;
-  line-height: 1.7;
-  font-weight: 400;
-  letter-spacing: -0.02em;
-  margin-bottom: 56px;
-  color: rgba(0,0,0,0.86);
-}
+  .home-content {
+    padding: 140px 32px 90px;
+    max-width: 560px;
+  }
 
-.hero .statement {
-  font-size: 22px;
-  line-height: 2.08;
-  font-weight: 300;
-  max-width: 560px;
-  color: rgba(0,0,0,0.68);
-  letter-spacing: -0.018em;
+  .home-line,
+  .home-sections a {
+    font-size: 21px;
+  }
 }
-
 /* ---------------- ESSAY PAGE ---------------- */
 
 .essay-page {

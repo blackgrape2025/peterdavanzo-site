@@ -90,7 +90,7 @@ nav a:hover {
 }
 
 .home-shell {
-  width: min(620px, calc(100vw - 64px));
+  width: min(560px, calc(100vw - 64px));
   margin: 0 auto;
   padding: 92px 0 120px;
 }
@@ -101,7 +101,7 @@ nav a:hover {
 }
 
 .home-header h1 {
-  font-size: 54px;
+  font-size: 48px;
   line-height: 1.05;
   font-weight: 300;
   letter-spacing: -0.06em;

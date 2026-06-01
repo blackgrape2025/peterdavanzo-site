@@ -71,15 +71,34 @@ content:
         label: Body
         type: rich-text
 
-  - name: about
-    label: About
+  - name: now
+    label: Now
     type: file
-    path: content/about.md
+    path: content/now.md
     format: yaml-frontmatter
     fields:
+      - name: layout
+        type: string
+        hidden: true
+        default: page.njk
+
+      - name: activeSection
+        type: string
+        hidden: true
+        default: now
+
+      - name: permalink
+        type: string
+        hidden: true
+        default: /now/
+
       - name: title
         label: Title
         type: string
+
+      - name: updated
+        label: Updated
+        type: date
 
       - name: body
         label: Body

@@ -12,22 +12,24 @@
   <link rel="stylesheet" href="/style.css"/>
 </head>
 
-<body class="{{ bodyClass | default('essay-page') }}">
+<body class="{{ bodyClass | default('site-page') }}">
 
-<header class="topbar">
-  <div class="logo">
-    <a href="/">Peter Da Vanzo</a>
-  </div>
+<main class="site-shell">
 
-  <nav>
-    <a href="/writing/">Writing</a>
-    <a href="/library/">Library</a>
-    <a href="/now/">Now</a>
-    <a href="/about/">About</a>
-  </nav>
-</header>
+  <header class="site-header">
+    <a class="site-title" href="/">Peter Da Vanzo</a>
 
-{{ content | safe }}
+    <nav class="site-nav">
+      <a href="/writing/" class="{% if activeSection == 'writing' %}is-active{% endif %}">Writing</a>
+      <a href="/library/" class="{% if activeSection == 'library' %}is-active{% endif %}">Library</a>
+      <a href="/now/" class="{% if activeSection == 'now' %}is-active{% endif %}">Now</a>
+      <a href="/about/" class="{% if activeSection == 'about' %}is-active{% endif %}">About</a>
+    </nav>
+  </header>
+
+  {{ content | safe }}
+
+</main>
 
 </body>
 </html>

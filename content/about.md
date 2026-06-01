@@ -1,13 +1,4 @@
 ---
-title: About
----
----
-
----
-
-This is a test page
-
----
 layout: page.njk
 title: About
 activeSection: about

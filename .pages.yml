@@ -53,25 +53,7 @@ content:
         label: Body
         type: rich-text
 
-  - name: now
-    label: Now
-    type: file
-    path: content/now.md
-    format: yaml-frontmatter
-    fields:
-      - name: title
-        label: Title
-        type: string
-
-      - name: updated
-        label: Updated
-        type: date
-
-      - name: body
-        label: Body
-        type: rich-text
-
-  - name: now
+ - name: now
     label: Now
     type: file
     path: content/now.md
@@ -103,7 +85,6 @@ content:
       - name: body
         label: Body
         type: rich-text
-
   - name: navigation
     label: Navigation
     type: file

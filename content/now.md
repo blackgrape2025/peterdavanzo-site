@@ -3,12 +3,10 @@ layout: page.njk
 bodyClass: standard-page
 activeSection: now
 permalink: /now/
-title: Now
-updated: 2026-05-30
 ---
 
-Test 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Test 2
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 
-Test 3
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.

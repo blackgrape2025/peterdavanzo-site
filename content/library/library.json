@@ -1,0 +1,6 @@
+{
+  "layout": "essay.njk",
+  "tags": "library",
+  "activeSection": "library",
+  "permalink": "/library/{{ page.fileSlug }}/"
+}

@@ -185,10 +185,10 @@ a {
 }
 
 .article-header h1 {
-  font-size: 56px;
-  line-height: 1.04;
+  font-size: 48px;
+  line-height: 1.08;
   font-weight: 300;
-  letter-spacing: -0.06em;
+  letter-spacing: -0.055em;
   color: rgba(0,0,0,0.88);
 }
 

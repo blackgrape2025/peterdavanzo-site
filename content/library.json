@@ -1,0 +1,8 @@
+{
+  "layout": "essay.njk",
+  "tags": "library",
+  "permalink": "/library/{{ page.fileSlug }}/",
+  "eleventyComputed": {
+    "pageTitle": "{{ title }}"
+  }
+}

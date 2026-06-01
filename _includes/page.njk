@@ -5,9 +5,11 @@ bodyClass: standard-page
 
 <article class="standard-page-content">
 
+  {% if title %}
   <header class="article-header">
     <h1>{{ title }}</h1>
   </header>
+  {% endif %}
 
   <section class="article-body">
     {{ content | safe }}

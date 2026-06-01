@@ -1,26 +1,27 @@
 ---
 layout: base.njk
 bodyClass: essay-page
+activeSection: writing
 ---
 
-<main class="essay-layout">
-  <article class="essay-content">
+<article class="article-page">
+
+  <header class="article-header">
     {% if date %}
-      <div class="meta">{{ date | readableDate }}</div>
+      <div class="article-meta">{{ date | readableDate }}</div>
     {% endif %}
 
     <h1>{{ title }}</h1>
-
-    <div class="line"></div>
+  </header>
 
   {% if description %}
-<div class="tldr">
-  <strong>TL;DR:</strong> {{ description }}
-</div>
-{% endif %}
+    <div class="tldr">
+      <strong>TL;DR:</strong> {{ description }}
+    </div>
+  {% endif %}
 
+  <section class="article-body">
     {{ content | safe }}
-  </article>
+  </section>
 
-  <aside class="essay-image"></aside>
-</main>
+</article>

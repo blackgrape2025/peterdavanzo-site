@@ -1,12 +1,12 @@
 ---
 layout: page.njk
-title: About
+bodyClass: standard-page
 activeSection: about
 permalink: /about/
 ---
 
-This is a test page.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Second paragraph.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
 
-Third paragraph.
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.

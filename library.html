@@ -1,1 +1,28 @@
+---
+layout: base.njk
+bodyClass: writing-page
+activeSection: library
+permalink: /library/
+---
 
+<section class="writing-index">
+
+  <div class="essay-list">
+    {% for item in collections.library | reverse %}
+      <article class="essay-item">
+        <a class="essay-link" href="{{ item.url }}">
+          <h2>{{ item.data.title }}</h2>
+
+          {% if item.data.description %}
+            <p class="essay-description">{{ item.data.description }}</p>
+          {% endif %}
+
+          {% if item.data.date %}
+            <div class="essay-date">{{ item.data.date | readableDate }}</div>
+          {% endif %}
+        </a>
+      </article>
+    {% endfor %}
+  </div>
+
+</section>

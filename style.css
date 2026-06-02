@@ -354,6 +354,16 @@ a {
     font-size: 17px;
   }
 
+.book-cover {
+  width: 180px;
+  height: auto;
+}
+
+.article-body img {
+  max-width: 180px;
+  height: auto;
+}
+
   .home-entry h2,
   .essay-link h2 {
     font-size: 26px;

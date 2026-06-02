@@ -1,10 +1,6 @@
 ---
-layout: page.njk
-bodyClass: standard-page
-activeSection: about
-permalink: /about/
 ---
-The interesting part is usually underneath.
+The interesting part is rarely the thing itself.
 
 Like a library at the end of the world. Like an ideology stretched way too far. Occasionally it's a heat pump remote.
 

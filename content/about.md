@@ -1,7 +1,8 @@
 ---
----
----
-
+layout: page.njk
+bodyClass: standard-page
+activeSection: about
+permalink: /about/
 ---
 
 The interesting thing is rarely the thing itself.

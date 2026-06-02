@@ -1,15 +1,10 @@
 ---
-layout: page.njk
-bodyClass: standard-page
-activeSection: about
-permalink: /about/
 ---
-
 The interesting thing is rarely the thing itself.
 
-Like a library at the end of the world. Like an ideology stretched way too far. Occasionally it's a heat pump remote.
+Like a library at the end of the world. Like a clever answer that's wrong. Occasionally it's a heat pump remote.
 
-I write about investing, music, design, politics, technology and culture. Most of it starts with a small observation and hopefully leads somewhere else.
+I write about investing, music, design, politics, technology and culture. Most of it starts with a small observation and ends up somewhere deeper.
 
 [The Library](https://peterdavanzo.com/library/) is where I keep things worth returning to.
 

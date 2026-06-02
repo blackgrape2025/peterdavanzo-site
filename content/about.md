@@ -1,6 +1,6 @@
 The interesting thing is rarely the thing itself.
 
-Like a library at the end of the world. Like a clever answer that's wrong. Occasionally it's a heat pump remote.
+The library at the end of the world. The clever answer that's wrong. The heat pump that won't turn on. 
 
 I write about investing, music, design, politics, technology and culture. Most of it starts with a small observation and ends up somewhere deeper.
 

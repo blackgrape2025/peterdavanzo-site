@@ -7,12 +7,5 @@ permalink: /now/
 
 *Updated 2 June 2026.*
 
-- Building peterdavanzo.com.
+Building peterdavanzo.com. I'm wrestling with YML and PagesCMS. Like many things, it takes a lot longer than I thought it would.   
 
-- Writing short essays about technology, culture, systems, and everyday failures of design.
-
-- Recording music.
-
-- Exploring practical AI systems that help people think and decide better.
-
-- Living on the Kāpiti Coast.

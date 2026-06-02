@@ -214,6 +214,21 @@ a {
   width: 100%;
 }
 
+.article-body {
+  width: 100%;
+}
+
+.article-body a {
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.18em;
+}
+
+.article-body a:hover {
+  text-decoration-style: solid;
+}
+
 .article-body p {
   font-size: 19px;
   line-height: 1.9;

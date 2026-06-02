@@ -1,5 +1,4 @@
 ---
-title: About
 ---
 The interesting part is usually underneath.
 

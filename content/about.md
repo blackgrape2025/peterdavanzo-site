@@ -1,18 +1,9 @@
 ---
-layout: page.njk
-bodyClass: standard-page
-activeSection: about
-permalink: /about/
 title: About
 ---
+The interesting part is usually underneath.
 
-I enjoy looking closely at things that don't make sense.
-
-Sometimes it's a library at the end of the world. Sometimes it's an ideology stretched too far. Occasionally it's a heat pump remote.
-
-Or a contented cow on a roof. How?
-
-I've never worked out why I like questions like this. Perhaps trying to look around blind corners is a fun thing to do.
+Like a library at the end of the world. Like an ideology stretched way too far. Occasionally it's a heat pump remote.
 
 I write about investing, music, design, politics, technology and culture. Most of it starts with a small observation and hopefully leads somewhere else.
 

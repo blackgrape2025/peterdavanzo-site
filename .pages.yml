@@ -90,12 +90,32 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: about
+   - name: about
     label: About
     type: file
     path: content/about.md
     format: yaml-frontmatter
     fields:
+      - name: layout
+        type: string
+        hidden: true
+        default: page.njk
+
+      - name: bodyClass
+        type: string
+        hidden: true
+        default: standard-page
+
+      - name: activeSection
+        type: string
+        hidden: true
+        default: about
+
+      - name: permalink
+        type: string
+        hidden: true
+        default: /about/
+
       - name: title
         label: Title
         type: string

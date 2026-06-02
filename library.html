@@ -17,9 +17,9 @@ permalink: /library/
             <p class="essay-description">{{ item.data.description }}</p>
           {% endif %}
 
-          {% if item.data.date %}
-            <div class="essay-date">{{ item.data.date | readableDate }}</div>
-          {% endif %}
+         {% if item.data.author %}
+  <div class="essay-date">{{ item.data.author }}</div>
+{% endif %}
         </a>
       </article>
     {% endfor %}

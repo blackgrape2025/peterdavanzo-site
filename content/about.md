@@ -1,4 +1,8 @@
 ---
+layout: page.njk
+bodyClass: standard-page
+activeSection: about
+permalink: /about/
 ---
 The interesting part is usually underneath.
 

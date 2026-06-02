@@ -1,0 +1,6 @@
+{
+  "layout": "page.njk",
+  "bodyClass": "standard-page",
+  "activeSection": "about",
+  "permalink": "/about/"
+}

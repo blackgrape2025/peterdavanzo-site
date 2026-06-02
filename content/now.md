@@ -5,8 +5,14 @@ activeSection: now
 permalink: /now/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+*Updated 2 June 2026.*
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+- Building peterdavanzo.com.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+- Writing short essays about technology, culture, systems, and everyday failures of design.
+
+- Recording music.
+
+- Exploring practical AI systems that help people think and decide better.
+
+- Living on the Kāpiti Coast.

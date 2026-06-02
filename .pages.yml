@@ -91,30 +91,30 @@ content:
         label: Body
         type: rich-text
 
-  - name: about
+    - name: about
     label: About
     type: file
     path: content/about.md
     format: yaml-frontmatter
     fields:
       - name: layout
+        label: Layout
         type: string
-        hidden: true
         default: page.njk
 
       - name: bodyClass
+        label: Body Class
         type: string
-        hidden: true
         default: standard-page
 
       - name: activeSection
+        label: Active Section
         type: string
-        hidden: true
         default: about
 
       - name: permalink
+        label: Permalink
         type: string
-        hidden: true
         default: /about/
 
       - name: title

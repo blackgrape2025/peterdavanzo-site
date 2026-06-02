@@ -1,5 +1,7 @@
 ---
 ---
+---
+---
 The interesting thing is rarely the thing itself.
 
 Like a library at the end of the world. Like a clever answer that's wrong. Occasionally it's a heat pump remote.

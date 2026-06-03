@@ -6,8 +6,8 @@ Most of my [writing](https://peterdavanzo.com/writing/) starts with something sm
 
 [The Library](https://peterdavanzo.com/library/) is where I keep things worth returning to.
 
-The [Now](https://peterdavanzo.com/now/) page is what currently has my attention.
+The [Now](https://peterdavanzo.com/now/) page is what I'm currently thinking about..
 
-I live on the Kapiti Coast, under tall trees and not far from the sand.
+I live on the Kapiti Coast, New Zealand, amongst the trees, near the open sea.
 
 If something here resonates, feel free to get in touch.

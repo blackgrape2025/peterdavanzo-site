@@ -14,13 +14,11 @@ date: 2026-06-01
 
 Tales of Paris in the 1920s.
 
-What I like best about this book is the simplicity of his prose. He gives me the little details, like "You belong to me and all Paris belongs to me and I belong to this notebook and this pencil."
+What I like best about this book is the simplicity of his prose. "I had learned already never to empty the well of my writing, but always to stop when there was still something there in the deep part of the well, and let it refill at night from the springs that fed it".
 
-He doesn't feel the need to explain everything.
+He also doesn't feel the need to explain everything. He called this writing technique the Iceberg Theory. He hints rather than spells things out.
 
-He called this writing technique the Iceberg Theory. He hints rather than spells things out.
-
-The meaning arrives sideways.
+He allows meaning to arrive sideways.
 
 
 

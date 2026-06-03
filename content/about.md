@@ -1,8 +1,6 @@
-I spent many years working in technology and marketing.
+I spent too many years working in technology and marketing.
 
-These days I spend a lot of time reading, writing and playing music.
-
-Most of my [writing](https://peterdavanzo.com/writing/) starts with something small: a book, a song, a conversation, a piece of technology that refuses to behave.
+These days I spend a lot of enjoyable time reading, [writing](https://peterdavanzo.com/writing/) and playing music.
 
 [The Library](https://peterdavanzo.com/library/) is where I keep things worth returning to.
 

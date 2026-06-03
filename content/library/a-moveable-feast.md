@@ -12,13 +12,15 @@ date: 2026-06-01
 
 
 
-*A Moveable Feast* is Hemingway's memoir of Paris. It was a city of warm cafes, ambitious young writers, cold winters, and long conversations.
+Tales of Paris in the 1920s.
 
-I love its clarity. Hemingway strips away explanation and leaves just the concrete details: the street below his window, a meal, a room, a feeling. 
+What I like best about this book is the simplicity of his prose. He gives me the little details, like "You belong to me and all Paris belongs to me and I belong to this notebook and this pencil."
 
-Hemingway called this the Iceberg Theory. The surface is simple, but the emotional weight lies underneath.
+He doesn't feel the need to explain everything.
 
-I am drawn to his approach in 2026. We live in an age where everything is explained. Hemingway reminds me that meaning emerges sideways.
+He called this writing technique the Iceberg Theory. He hints rather than spells things out.
+
+The meaning arrives sideways.
 
 
 

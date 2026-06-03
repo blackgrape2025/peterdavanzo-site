@@ -373,4 +373,11 @@ a {
   .essay-description {
     max-width: 100%;
   }
+  .article-body img {
+  width: 280px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+}
 }

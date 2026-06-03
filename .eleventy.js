@@ -1,4 +1,4 @@
-module.exports = function(eleventyConfig) {
+module.exports = function(eleventyConfig) {eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("style.css");
   eleventyConfig.addPassthroughCopy("background.jpg");
 eleventyConfig.addFilter("readableDate", function(dateObj) {

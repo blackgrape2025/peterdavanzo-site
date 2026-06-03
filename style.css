@@ -250,6 +250,14 @@ a {
   line-height: 1.9;
 }
 
+.article-body img {
+  width: 280px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+}
+
 /* ---------------- WRITING INDEX ---------------- */
 
 
@@ -354,15 +362,9 @@ a {
     font-size: 17px;
   }
 
-.book-cover {
-  width: 180px;
-  height: auto;
-}
 
-.article-body img {
-  max-width: 180px;
-  height: auto;
-}
+
+
 
   .home-entry h2,
   .essay-link h2 {
@@ -373,11 +375,5 @@ a {
   .essay-description {
     max-width: 100%;
   }
-  .article-body img {
-  width: 280px;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 2rem auto;
-}
+ 
 }

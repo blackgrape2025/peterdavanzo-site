@@ -10,31 +10,35 @@ It has many options, but the only one I’m interested in is “make the room wa
 
 I press the temperature button. The number goes up. Nothing happens.
 
-I step outside into the cold night and inspect the condenser unit. Is it broken? Strange, because it worked yesterday. I switch it off and on at the wall.
+I step outside and inspect the condenser unit. Is it broken? Strange, because it worked yesterday. I switch it off and on at the wall, hopefully. 
 
 The unit carries on doing nothing.
 
-I return to frowning at the remote. On/off. An icon of a clock. Another icon that looks like a tree. I press a button marked “TM Off”. The remote flashes the word “ON”.
+I frown at the remote. On/off. An icon of a clock. Another icon that looks like a tree. I press a button marked “TM Off”. 
 
-Nothing.
+The remote flashes the word “ON”.
 
-Every button produced a response except the one I wanted. The remote seemed more interested in demonstrating itself than heating the room.
+Still nothing.
 
-I reach for the instruction manual. The translation is ugly.
+Every button produced a response except the one I wanted. 
+
+The translation in the instruction manual is ugly.
 
 “Press this button to turn on or turn off the health and scavenging functions in operation status.”
 
 Scavenging?
 
-I just want to heat the room.
+This reminds me of setting timers on VCR's. They seldom did what you asked of them. 
 
-It reminds me of old VCRs. One wrong button setting the timer and the machine disappeared into a mode only it understood.
+Google offered no solution. 
 
-Google offered no solution. AI suggested a service technician.
+AI suggested I call a service technician.
 
-One last attempt. Like a kid with a stubborn toy, I pulled out the batteries, made it die. Reinserted. Hit “on”.
+Hmmm. Like a kid with a stubborn toy, I pulled out the batteries. The screen went blank.  Reinserted. Waited. Hit “ON”.
 
 The heat pump springs into life.
+
+Finally. 
 
 I’m afraid to touch any more buttons.
 

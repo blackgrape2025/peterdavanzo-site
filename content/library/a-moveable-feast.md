@@ -20,6 +20,6 @@ date: 2026-06-01
 
   I am drawn to his approach in 2026. We live in an age where everything is explained. Hemingway reminds me that meaning often emerges sideways.
 
-- 
+  
 
   

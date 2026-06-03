@@ -1,8 +1,10 @@
-The interesting thing is rarely the thing itself.
+I spent many years working in technology and marketing.
 
-The library at the end of the world. The clever answer that's wrong. The heat pump that won't turn on. 
+I spent many years working in technology and marketing.
 
-I write about investing, music, design, politics, technology and culture. Most of it starts with a small observation and ends up somewhere deeper.
+These days I spend a lot of time reading, writing and playing music.
+
+Most of my [writing](https://peterdavanzo.com/writing/) starts with something small: a book, a song, a conversation, a piece of technology that refuses to behave.
 
 [The Library](https://peterdavanzo.com/library/) is where I keep things worth returning to.
 

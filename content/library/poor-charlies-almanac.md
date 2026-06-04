@@ -1,11 +1,11 @@
 ---
-title: Poor Charlie's Almanack
+title: Poor Charlie's Almanac
 author: Charlie Munger
 description: Create a series of mental models. Reality can seldom be seen well if using only one lens. 
 ---
 
 
-![poor_charlies_almanack](/images/books/poor_charlies_almanack.png)
+![poor_charlies_almanac](/images/books/poor_charlies_almanac.png)
 
 # 
 

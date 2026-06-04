@@ -1,7 +1,7 @@
 ---
 title: Poor Charlie's Almanac
 author: Charlie Munger
-description: Create a series of mental models. Reality can seldom be seen well if using only one lens. 
+description: Reality can seldom be seen well if viewed through only one lens. 
 ---
 
 

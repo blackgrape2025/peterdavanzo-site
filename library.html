@@ -13,13 +13,14 @@ permalink: /library/
         <a class="essay-link" href="{{ item.url }}">
           <h2>{{ item.data.title }}</h2>
 
+         {% if item.data.author %}
+  <div class="essay-date">{{ item.data.author }}</div>
+{% endif %}
+
           {% if item.data.description %}
             <p class="essay-description">{{ item.data.description }}</p>
           {% endif %}
 
-         {% if item.data.author %}
-  <div class="essay-date">{{ item.data.author }}</div>
-{% endif %}
         </a>
       </article>
     {% endfor %}

@@ -1,8 +1,7 @@
 ---
 title: A Moveable Feast
 author: Ernest Hemingway
-description: 
-date: 2026-06-01
+description: I love the minimalism of his writing, pointing at something deeper. 
 ---
 
 

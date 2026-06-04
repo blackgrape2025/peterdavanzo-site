@@ -1,7 +1,6 @@
 ---
 title: A Warm Room Would Be Nice
-description: Prioritise primary function on interfaces. On a cold night, “heat
-  the room” should outrank every other feature.
+description: A heat pump remote, a cold room, and a button called "scavenging".
 date: 2026-05-30
 ---
 It’s winter. I have a heat pump. I’m staring at the remote.
@@ -43,3 +42,15 @@ Finally.
 I’m afraid to touch any more buttons.
 
 Especially the scavenging one.
+
+
+
+# A Solution
+
+- A users experience of the interface is the experience of the product
+- If every button is important, no button is important
+- Operations should have a hierarchy. Fundamentals first, everything else relegated
+- In this case, warm, cool, fan speed and timer. Everything else should be relegated. 
+- Modes should not inhibit fundamental operations. Fundamental operations should always override other functions
+- Modes need to be a challenge to get into and easy to get out of
+- Systems should have a clear system reset option

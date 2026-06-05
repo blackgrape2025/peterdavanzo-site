@@ -218,6 +218,12 @@ a {
   width: 100%;
 }
 
+.article-content h2 {
+  margin-top: 4 rem;
+  margin-bottom: 1.4 rem;
+}
+
+
 .article-body a {
   color: inherit;
   text-decoration-line: underline;

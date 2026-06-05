@@ -3,7 +3,7 @@ title: Lost The Main Thing
 description: Good products get hierarchy right
 date: 2026-05-30
 ---
-# Lost The Main Thing
+# 
 
 My heat pump wasn't doing the one thing I wanted it to do.
 

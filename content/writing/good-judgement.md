@@ -1,11 +1,9 @@
 ---
 title: How Much Weight Should We Give An Opinion?
-description: Good products get hierarchy right
+description: The internet helped us to find information. The next challenge is learning how to weigh it.
 date: 2026-06-08
 ---
 # 
-
-# How Much Weight Should We Give An Opinion?
 
 "Hey Jeeves, may I ask you something?"
 

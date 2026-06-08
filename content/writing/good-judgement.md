@@ -21,7 +21,7 @@ AI answers are everywhere.
 
 The question becomes: which answers do I trust?
 
-I could listen to experts. A doctor still knows far more medicine than I do. He could tell me about that intermittent pain under my right rib when I lean a certain way. Ask an AI about the same problem and receive an answer that sounds remarkably like it came from my doctor.
+I could listen to experts. A doctor still knows far more medicine than I do. He could tell me about that intermittent pain under my right rib when I lean a certain way. Ask an AI about the same problem and it gives an answer that sounds remarkably like it came from my doctor.
 
 Listening to experts is the easy part.
 
@@ -43,8 +43,6 @@ The AI might be right.
 
 The trick is deciding how much weight to give each of them.
 
-Perhaps that is the real skill.
-
 Because that's how people judged credibility long before search engines. Long before the information age.
 
 The village doctor.
@@ -59,4 +57,4 @@ But then you made up your own mind.
 
 The internet helped us to find information.
 
-The next challenge is learning how to weigh it.
+The challenge remains how to weigh it.

@@ -267,7 +267,22 @@ a {
 /* ---------------- WRITING INDEX ---------------- */
 
 
+.article-signoff {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  font-size: 0.9rem;
+  color: #777;          /* lighter grey */
+}
 
+.article-signoff a {
+  color: #999;          /* same lighter grey */
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.article-signoff a:hover {
+  color: #555;          /* slightly darker on hover */
+}
 
 .essay-list {
   width: 100%;
@@ -370,22 +385,7 @@ a {
     font-size: 17px;
   }
 
-.article-signoff {
-  margin-top: 4rem;
-  padding-top: 1.5rem;
-  font-size: 0.9rem;
-  color: #777;          /* lighter grey */
-}
 
-.article-signoff a {
-  color: #999;          /* same lighter grey */
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-
-.article-signoff a:hover {
-  color: #555;          /* slightly darker on hover */
-}
 
 
   .home-entry h2,

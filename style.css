@@ -373,20 +373,19 @@ a {
 .article-signoff {
   margin-top: 4rem;
   padding-top: 1.5rem;
-  border-top: 1px solid #e5e5e5;
   font-size: 0.9rem;
-  color: #777;
+  color: #777;          /* lighter grey */
 }
 
 .article-signoff a {
-  color: inherit;
-  text-decoration: none;
+  color: #999;          /* same lighter grey */
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .article-signoff a:hover {
-  text-decoration: underline;
+  color: #555;          /* slightly darker on hover */
 }
-
 
 
   .home-entry h2,

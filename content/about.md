@@ -10,7 +10,7 @@ There's a quote I love by Marcel Proust:
 
 "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."
 
-There's another quote I love just as much, from Ernest Hemingway:
+And another from Ernest Hemingway:
 
 "All you have to do is write one true sentence. Write the truest sentence that you know."
 

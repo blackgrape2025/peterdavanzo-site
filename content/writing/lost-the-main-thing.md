@@ -2,13 +2,16 @@
 title: Lost The Main Thing
 description: Good products get hierarchy right
 date: 2026-05-30
-previousThought:
-  title: A Warm Room Would Be Nice
-  url: /writing/a-warm-room-would-be-nice/
+  
 ---
 # 
 
-Previous thought > [A Warm Room Would Be Nice](https://peterdavanzo.com/writing/a-warm-room-would-be-nice/)
+<div class="thread-link">
+  <span class="thread-link-label">Previous thought</span>
+  <a href="https://peterdavanzo.com/writing/a-warm-room-would-be-nice/">
+    A Warm Room Would Be Nice →
+  </a>
+</div>
 
 ------
 

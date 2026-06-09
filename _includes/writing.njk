@@ -1,0 +1,27 @@
+---
+layout: writing-index.njk
+title: Writing
+permalink: /writing/
+---
+
+<!-- your note here. -->
+
+
+
+<div class="essay-list">
+{% for post in collections.writing | reverse %}
+  <article class="essay-item">
+    <a class="essay-link" href="{{ post.url }}">
+      <h2>{{ post.data.title }}</h2>
+
+      {% if post.data.description %}
+        <p class="essay-description">{{ post.data.description }}</p>
+      {% endif %}
+
+      {% if post.data.date %}
+        <div class="essay-date">{{ post.data.date | readableDate }}</div>
+      {% endif %}
+    </a>
+  </article>
+{% endfor %}
+</div>

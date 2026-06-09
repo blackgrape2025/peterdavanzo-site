@@ -2,6 +2,9 @@
 title: Lost The Main Thing
 description: Good products get hierarchy right
 date: 2026-05-30
+previousThought:
+  title: A Warm Room Would Be Nice
+  url: /writing/a-warm-room-would-be-nice/
 ---
 # 
 

@@ -5,7 +5,14 @@ permalink: /writing/
 ---
 
 <!-- your note here. -->
-
+{% if previousThought %}
+<div class="thread-link">
+  <span class="thread-link-label">Previous Thought</span>
+  <a href="{{ previousThought.url }}">
+    {{ previousThought.title }} →
+  </a>
+</div>
+{% endif %}
 
 
 <div class="essay-list">

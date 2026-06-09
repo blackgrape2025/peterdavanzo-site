@@ -16,7 +16,7 @@ Way back when, if I wanted to know how to change a piston, what happened to Twin
 
 We've taken a leap further. 
 
-Today, thanks to AI, both information and expert opinion are on tap.
+Today, thanks to AI, both information and expert advice are on tap.
 
 My doctor knows far more about medicine than I do. He can tell me about the intermittent pain under my right rib when I lean a certain way. Ask an AI the same question and the answer will sound remarkably like it came from my doctor. Only more thorough.
 

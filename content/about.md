@@ -1,3 +1,9 @@
+<img   src="/images/peter.jpg"   alt="Peter Da Vanzo"   style="     width: 180px;     height: 180px;     border-radius: 50%;     object-fit: cover;     display: block;     margin: 0 auto 2rem auto;   " />
+
+
+
+
+
 I [write](https://peterdavanzo.com/writing/). I read. I play and listen to a lot of music. I like to tease at threads. Sometimes they lead somewhere interesting.
 
 There's a quote I love by Marcel Proust:

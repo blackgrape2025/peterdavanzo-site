@@ -1,5 +1,5 @@
 ---
-title: Expert Advice Is Now Cheap. But...
+title: Expert Advice Is Now Cheap
 description: The credibility problem remains.
 date: 2026-06-09
 

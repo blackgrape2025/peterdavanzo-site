@@ -5,6 +5,10 @@ date: 2026-05-30
 ---
 # 
 
+Previous thought > [A Warm Room Would Be Nice](https://peterdavanzo.com/writing/a-warm-room-would-be-nice/)
+
+------
+
 My heat pump wasn't doing the one thing I wanted it to do.
 
 Warm my room.

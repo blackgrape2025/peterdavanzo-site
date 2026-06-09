@@ -4,17 +4,17 @@
 
 
 
-I [write](https://peterdavanzo.com/writing/). I read. I play and listen to a lot of music. I like to tease at threads. Sometimes they lead somewhere interesting.
+I [write](https://peterdavanzo.com/writing/). I read. I play and listen to a lot of music. 
 
 There's a quote I love by Marcel Proust:
 
-"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."
+<i>"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."</i>>
 
 And another from Ernest Hemingway:
 
-"All you have to do is write one true sentence. Write the truest sentence that you know."
+<i>"All you have to do is write one true sentence. Write the truest sentence that you know."</i>>
 
-I try my best to write like him. 
+I try my best to write with some of his grace and economy. I like to tease at threads. Sometimes they lead somewhere interesting. 
 
 The [Library](https://peterdavanzo.com/library/) is where I keep books I like to return to.
 

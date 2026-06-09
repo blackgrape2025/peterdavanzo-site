@@ -1,60 +1,44 @@
 ---
-title: How Much Weight Should We Give An Opinion?
-description: The internet helped us to find information. The next challenge is learning how to weigh it.
+title: Expert Opinion Has Become Cheap
+description: The credibility problem remains.
 date: 2026-06-08
+tags: writing
+layout: writing.njk
 ---
-# 
-
 "Hey Jeeves, may I ask you something?"
 
 Jeeves looks like a trustworthy chap.
 
-Or perhaps I'll try Google. 
+Or perhaps I'll try Google.
 
 Nobody uses Yahoo anymore.
 
-Finding information used to be a problem. If I wanted to know how a steam engine worked, what happened to Twin Pines Mall, or the correct HTML 2.0 syntax, I went looking for it. Search engines helped me find answers.
+Way back when, if I wanted to know how to change a piston, what happened to Twin Pines Mall, or what was the correct HTML syntax for a TABLE, search engines helped me find answers.
 
-But today, finding answers isn't a problem.
+Today, AI answers are everywhere. Expert opinion is effectively on tap.
 
-AI answers are everywhere.
+My doctor knows far more about medicine than I do. He can tell me about the intermittent pain under my right rib when I lean a certain way. Ask an AI the same question and the answer will sound remarkably like it came from my doctor. Only more thorough.
 
-The question becomes: which answers do I trust?
+That feels new.
 
-I could listen to experts. A doctor still knows far more medicine than I do. He could tell me about that intermittent pain under my right rib when I lean a certain way. Ask an AI about the same problem and it gives an answer that sounds remarkably like it came from my doctor.
+For most of my life, expertise was scarce.
 
-Listening to experts is the easy part.
+But...
 
-The hard part is deciding whether to believe it.
+A doctor has skin in the game.
 
-I think we care less about credentials than we used to.
+Musk has skin in the game.
 
-But if someone has a good track record, has been right often, and is open about their uncertainty, after a while you might start listening to them.
+Andreessen has skin in the game.
 
-Because they've earned it.
+AI doesn't.
 
-Andreessen might be right.
+It can be right.
 
-Musk might be right.
+It can be wrong.
 
-Your doctor might be right.
+But it bears no cost either way.
 
-The AI might be right.
+Expert opinion has become cheap.
 
-The trick is deciding how much weight to give each of them.
-
-Because that's how people judged credibility long before search engines. Long before the information age.
-
-The village doctor.
-
-The local mechanic.
-
-The neighbour who always seemed to know what was going on.
-
-You listened because they had earned it.
-
-But then you made up your own mind.
-
-The internet helped us to find information.
-
-The challenge remains how to weigh it.
+Accountability hasn't.

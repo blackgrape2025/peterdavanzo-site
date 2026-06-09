@@ -2,8 +2,7 @@
 title: Expert Opinion Has Become Cheap
 description: The credibility problem remains.
 date: 2026-06-09
-tags: writing
-layout: writing.njk
+
 ---
 "Hey Jeeves, may I ask you something?"
 

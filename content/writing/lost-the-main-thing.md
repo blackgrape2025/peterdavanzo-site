@@ -12,6 +12,8 @@ date: 2026-05-30
     A Warm Room Would Be Nice →
   </a>
 </div>
+#
+
 My heat pump wasn't doing the one thing I wanted it to do.
 
 Warm my room.

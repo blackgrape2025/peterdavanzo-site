@@ -43,6 +43,6 @@ I’m afraid to touch any more buttons.
 
 Especially the scavenging one.
 
-------
 
-Follow the thread > [Lost The Main Thing...](https://peterdavanzo.com/writing/lost-the-main-thing/) 
+
+<div class="thread-link">   <span class="thread-link-label">Next thought</span>   <a href="https://peterdavanzo.com/writing/lost-the-main-thing/">     Lost The Main Thing →   </a> </div>

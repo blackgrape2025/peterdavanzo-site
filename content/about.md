@@ -8,9 +8,9 @@ There's another quote I love just as much, from Ernest Hemingway:
 
 "All you have to do is write one true sentence. Write the truest sentence that you know."
 
-I try my best to write like him. One day, I hope to succeed.
+I try my best to write like him. 
 
-The [Library](https://peterdavanzo.com/library/) is where I keep things worth returning to.
+The [Library](https://peterdavanzo.com/library/) is where I keep books I like to return to.
 
 The [Now](https://peterdavanzo.com/now/) page is what I'm currently thinking about.
 

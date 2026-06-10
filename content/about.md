@@ -14,7 +14,7 @@ And another from Ernest Hemingway:
 
 <i>"All you have to do is write one true sentence. Write the truest sentence that you know."</i>
 
-I try my best to write with some of his grace and economy. I like to tease at threads. Sometimes they lead somewhere interesting. 
+I try to write with some of his grace and economy. Usually that means starting with a small observation and following it for a while. Sometimes it leads somewhere interesting.
 
 The [Library](https://peterdavanzo.com/library/) is where I keep books I like to return to.
 

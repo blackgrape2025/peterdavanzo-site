@@ -34,7 +34,9 @@ But good judgment takes time to reveal itself.
 
 Just like Miles, I'd look for a pattern of good choices over time.
 
-A writer. An investor. A musician. They have proof of work.
+A writer. An investor. A musician. 
+
+They have proof of work.
 
 I haven't met my AI either - and never will.
 

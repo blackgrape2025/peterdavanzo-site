@@ -8,7 +8,7 @@ I've never met Miles Davis.
 
 But I trust his judgment more than many people I have met.
 
-Not as a person. We never met.
+Not as a person. 
 
 He may or may not have given great financial advice. Or relationship advice.
 
@@ -20,7 +20,7 @@ Earned.
 
 We do this all the time.
 
-We trust musicians we've never met.
+We trust artists we've never met.
 
 Investors we've never met.
 

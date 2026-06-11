@@ -48,7 +48,7 @@ Finance wants lower costs.
 
 In that fight, the main thing often gets lost.
 
-Someone has to say, "Make sure the fan button always works."
+Someone has to say, "Make sure the heating always works."
 
 Otherwise the user risks not being able to do "the thing".
 

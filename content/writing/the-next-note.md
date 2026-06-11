@@ -16,7 +16,7 @@ But I trust him to choose the next note.
 
 When I listen to his records, I can hear the emotion, the highs and lows, the atmosphere.
 
-Earned trust.
+Earned.
 
 We do this all the time.
 
@@ -30,7 +30,7 @@ We infer judgment from the work.
 
 AI can produce answers instantly.
 
-But we're about to go one layer up.
+But good judgment takes time to reveal itself.
 
 Just like Miles - who I have never met - I'd look for a pattern of good choices over time.
 
@@ -38,4 +38,4 @@ A writer. An investor. A musician. They have proof of work.
 
 I haven't met my AI either - and never will.
 
-I am watching its patterns.
+I'll trust it one good choice at a time.

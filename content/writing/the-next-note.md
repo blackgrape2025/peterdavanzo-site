@@ -32,7 +32,7 @@ AI can produce answers instantly.
 
 But good judgment takes time to reveal itself.
 
-Just like Miles - who I have never met - I'd look for a pattern of good choices over time.
+Just like Miles, I'd look for a pattern of good choices over time.
 
 A writer. An investor. A musician. They have proof of work.
 

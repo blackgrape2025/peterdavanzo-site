@@ -12,9 +12,9 @@ Not as a person.
 
 He may or may not have given great financial advice. Or relationship advice.
 
-But I trust him to choose the next note.
+But I trust his judgment when he chooses the next note.
 
-When I listen to his records, I can hear the emotion, the highs and lows, the atmosphere.
+When I listen to his records, I can hear the emotion, the highs and lows, the atmosphere. Created through a series of choices. 
 
 Earned.
 
@@ -30,14 +30,14 @@ We infer judgment from the work.
 
 AI can produce answers instantly.
 
-But good judgment takes time to reveal itself.
+Good judgment reveals itself over time.
 
-Just like Miles, I'd look for a pattern of good choices over time.
+Just like with Miles, I'd look for a pattern of good choices over time.
 
 A writer. An investor. A musician. 
 
-They have proof of work.
+Trust is earned through proof of work.
 
-I haven't met my AI either - and never will.
+And just like with Miles, I haven't met my AI either - and never will.
 
 I'll trust it one good choice at a time.

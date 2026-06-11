@@ -1,5 +1,5 @@
 ---
-title:  Zen and the Art of Motorcycle Maintenance*
+title:  Zen and the Art of Motorcycle Maintenance
 author: Robert Pirsig
 description: It's not really about motorcycle maintenance. Or Zen. 
 ---

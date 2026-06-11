@@ -5,11 +5,11 @@ date: 2026-05-30
 ---
 It’s winter. I have a heat pump. I’m staring at the remote.
 
-It has many options, but the only one I’m interested in is “make the room warmer”. The heat pump isn’t co-operating.
+It has many options, but the only one I’m interested in is “make the room warmer”. 
 
 I press the temperature button. The number goes up. Nothing happens.
 
-I step outside and inspect the condenser unit. Is it broken? Strange, because it worked yesterday. I switch it off and on at the wall, hopefully. 
+I step outside and inspect the condenser unit. Is it broken? Strange, because it worked yesterday. I switch it off and on at the wall. 
 
 The unit carries on doing nothing.
 
@@ -21,19 +21,25 @@ Still nothing.
 
 Every button produced a response except the one I wanted. 
 
-The translation in the instruction manual is ugly.
+The instruction manual isn't helping.
 
 “Press this button to turn on or turn off the health and scavenging functions in operation status.”
 
 Scavenging?
 
-This reminds me of setting timers on VCR's. They seldom did what you asked of them. 
-
 Google offered no solution. 
 
-AI suggested I call a service technician.
+ChatGPT suggested I call a service technician.
 
-Hmmm. Like a kid with a stubborn toy, I pulled out the batteries. The screen went blank.  Reinserted. Waited. Hit “ON”.
+Hmmm. Like a kid with a stubborn toy, I pulled out the batteries. 
+
+The screen went blank.  
+
+Reinserted. 
+
+Waited. 
+
+Hit “ON”.
 
 The heat pump springs into life.
 
@@ -43,6 +49,6 @@ I’m afraid to touch any more buttons.
 
 Especially the scavenging one.
 
-
+Still, I am curious...
 
 <div class="thread-link">   <span class="thread-link-label">Next thought</span>   <a href="https://peterdavanzo.com/writing/lost-the-main-thing/">     Lost The Main Thing →   </a> </div>

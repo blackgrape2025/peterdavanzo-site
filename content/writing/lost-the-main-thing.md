@@ -11,7 +11,10 @@ date: 2026-05-30
   <a href="https://peterdavanzo.com/writing/a-warm-room-would-be-nice/">
     A Warm Room Would Be Nice →
   </a>
-</div>
+</div> <br>
+
+
+
 My heat pump wasn't doing the one thing I wanted it to do.
 
 Warm my room.

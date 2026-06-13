@@ -30,8 +30,6 @@ The question is whether it can demonstrate good judgment.
 
 Just like with Miles, I'd look for a pattern of good choices over time.
 
-Proof of work.
-
-And just like with Miles, I haven't met my AI - and never will.
+And just like with Miles, I haven't met chatGPT - and never will.
 
 I'll trust it one good answer at a time.

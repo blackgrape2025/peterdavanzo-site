@@ -22,7 +22,9 @@ We trust artists we've never met.
 
 Writers we've never met.
 
-We infer good judgment from the work.
+Philosophers we've never met. 
+
+We infer judgment from the work.
 
 AI can produce answers instantly.
 
@@ -30,6 +32,6 @@ The question is whether it can demonstrate good judgment.
 
 Just like with Miles, I'd look for a pattern of good choices over time.
 
-And just like with Miles, I haven't met chatGPT - and never will.
+And just like with Miles, I haven't met an AI - and I never will.
 
 I'll trust it one good answer at a time.

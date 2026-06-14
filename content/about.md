@@ -4,8 +4,6 @@
 
 
 
-I [write](https://peterdavanzo.com/writing/). I read. I play and listen to a lot of music. 
-
 There's a quote I love by Ernest Hemingway:
 
 <i>"All you have to do is write one true sentence. Write the truest sentence that you know."</i>

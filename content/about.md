@@ -6,15 +6,13 @@
 
 I [write](https://peterdavanzo.com/writing/). I read. I play and listen to a lot of music. 
 
-There's a quote I love by Marcel Proust:
-
-<i>"The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."</i>
-
-And another from Ernest Hemingway:
+There's a quote I love by Ernest Hemingway:
 
 <i>"All you have to do is write one true sentence. Write the truest sentence that you know."</i>
 
-I try to write with some of his grace and economy. Usually that means starting with a small observation and following it for a while. Sometimes it leads somewhere interesting.
+I try to write with some of his grace and economy. Usually that means starting with a small observation and following the thread for a while. Sometimes it leads somewhere deeper.
+
+I'm interested in how AI and robotics are changing the way people think, work, decide, create, and relate to one another. 
 
 The [Library](https://peterdavanzo.com/library/) is where I keep books I like to return to.
 

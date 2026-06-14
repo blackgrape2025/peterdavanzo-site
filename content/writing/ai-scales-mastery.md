@@ -24,7 +24,7 @@ For most of history, this is how people learned mastery. They became apprentices
 
 The apprentice tried.
 
-The master corrected.
+The master provided feedback.
 
 The apprentice tried again.
 
@@ -36,9 +36,7 @@ One textbook can teach thousands.
 
 An online course can reach millions.
 
-Apprenticeship is more intensive. 
-
-The problem is that it doesn't scale.
+Apprenticeship is more intensive. The challenge is that intensive feedback doesn't scale.
 
 Until now.
 
@@ -52,4 +50,4 @@ Repeatedly.
 
 For free.
 
-For the first time in history, that relationship may be available to everyone.
+For the first time in history, that kind of relationship may be available to everyone.

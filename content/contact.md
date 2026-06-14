@@ -11,6 +11,6 @@ permalink: /contact/
 
 Hello :) 
 
-I'm Peter, I live on the Kapiti Coast, New Zealand, amongst the trees, near the open sea.
+I'm Peter. I live on the Kapiti Coast, New Zealand, amongst the trees, near the open sea.
 
 If something here resonates, feel free to get in touch.

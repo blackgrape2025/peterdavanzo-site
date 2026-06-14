@@ -4,7 +4,9 @@ description: A return to Master and Apprentice in education
 date: 2026-06-14
 
 ---
-I'm a guitar player. But I've always wanted to sing.
+I'm a guitar player. 
+
+But I've always wanted to learn to sing.
 
 I've read books about singing.
 
@@ -14,19 +16,13 @@ But singing isn't something you learn by watching videos or reading books.
 
 You learn it by doing.
 
-A singing teacher can provide feedback. They point out mistakes you didn't know you were making.
+A singing teacher can provide feedback. 
 
 "Not bad. Try again with your tongue flattened slightly and the tip touching the back of your front teeth."
 
-The challenge is that teachers are expensive. Finding one you gel with can be difficult. And none of them are going to spend twelve hours a day patiently listening to you practice tongue placement.
+The challenge is that teachers are expensive over time. Finding one you gel with can be difficult. And none of them are going to spend twelve hours a day patiently listening to you practice tongue placement.
 
 For most of history, this is how people learned mastery. They became apprentices.
-
-The apprentice tried.
-
-The master provided feedback.
-
-The apprentice tried again.
 
 Modern education works differently. It is designed to convey information at scale.
 

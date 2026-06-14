@@ -8,9 +8,7 @@ There's a quote I love by Ernest Hemingway:
 
 <i>"All you have to do is write one true sentence. Write the truest sentence that you know."</i>
 
-I try to write with some of his grace and economy. Usually that means starting with a small observation and following the thread for a while. Sometimes it leads somewhere deeper.
-
-I'm interested in how AI and robotics are changing the way people think, work, decide, create, and relate to one another. 
+I try to [write](https://peterdavanzo.com/writing/) with some of his grace and economy. Usually that means starting with a small observation and following the thread for a while. Sometimes it leads somewhere deeper. Lately, I've been thinking a lot about how AI and robotics are changing the way people think, work, decide, create, and relate to one another.
 
 The [Library](https://peterdavanzo.com/library/) is where I keep books I like to return to.
 

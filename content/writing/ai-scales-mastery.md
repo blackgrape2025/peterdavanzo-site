@@ -10,15 +10,9 @@ I've read books about singing.
 
 Watched videos.
 
-Spent countless hours trying to understand what makes good singers good.
-
-Of course, singing isn't something you learn by reading books.
+But singing isn't something you learn by watching videos or reading books.
 
 You learn it by doing.
-
-Mainly by discovering what you're doing wrong.
-
-That requires feedback.
 
 A singing teacher can provide feedback. They point out mistakes you didn't know you were making.
 
@@ -44,9 +38,7 @@ One textbook can teach thousands.
 
 An online course can reach millions.
 
-It's effective at transmitting ideas.
-
-Apprenticeship is more intensive. It tackles the problem of mastery.
+Apprenticeship is more intensive. 
 
 The problem is that it doesn't scale.
 

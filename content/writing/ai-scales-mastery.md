@@ -42,8 +42,6 @@ The problem is that it doesn't scale.
 
 Until now.
 
-Which brings me to AI.
-
 The real opportunity of AI in education is the ancient feedback loop of the master and apprentice.
 
 At three in the morning.

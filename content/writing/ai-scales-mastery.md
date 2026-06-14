@@ -20,9 +20,7 @@ A singing teacher can provide feedback. They point out mistakes you didn't know 
 
 The challenge is that teachers are expensive. Finding one you gel with can be difficult. And none of them are going to spend twelve hours a day patiently listening to you practice tongue placement.
 
-For most of history, this is how people learned mastery.
-
-They became apprentices.
+For most of history, this is how people learned mastery. They became apprentices.
 
 The apprentice tried.
 
@@ -30,7 +28,7 @@ The master corrected.
 
 The apprentice tried again.
 
-Modern education works differently.
+Modern education works differently. It is designed to convey information at scale.
 
 One teacher can teach thirty students.
 

@@ -16,3 +16,9 @@ I'm Peter. I live on the Kapiti Coast, New Zealand, amongst the trees, near the 
 I like exploring new territory. 
 
 If something here resonates, feel free to get in touch.
+
+peter (at) peterdavanzo.com
+
+x.com/petedavanzo
+
+facebook.com/peter.davanzo.nz

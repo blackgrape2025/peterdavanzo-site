@@ -19,6 +19,6 @@ If something here resonates, feel free to get in touch.
 
 peter (at) peterdavanzo.com
 
-x.com/petedavanzo
+[x.com/petedavanzo](https://x.com/petedavanzo)
 
-facebook.com/peter.davanzo.nz
+[facebook.com/peter.davanzo.nz](https://www.facebook.com/peter.davanzo.nz)

@@ -14,7 +14,7 @@ But singing isn't something you learn by watching videos or reading books.
 
 You learn it by doing.
 
-A singing teacher can provide feedback. 
+A singing teacher can be a great help. 
 
 "Not bad. Try again with your tongue flattened slightly and the tip touching the back of your front teeth."
 
@@ -26,23 +26,13 @@ They became apprentices.
 
 Mostly, modern education works differently. 
 
-It is designed to convey information at scale.
+Apprenticeship is more intensive. 
 
-One teacher can teach thirty students.
+The challenge is that feedback doesn't scale.
 
-One textbook can teach thousands.
+Until now, perhaps? 
 
-An online course can reach millions.
-
-However, apprenticeship is more intensive. 
-
-It relies on a feedback loop. 
-
-The challenge is that intensive feedback doesn't scale.
-
-Until now.
-
-The real opportunity of AI in education is access to the feedback loop.
+The real opportunity of AI in education might be access to the feedback loop.
 
 At three in the morning.
 
@@ -52,5 +42,19 @@ Repeatedly.
 
 For free.
 
-For the first time in history, that kind of relationship may be more readily available to everyone.
+At scale. 
+
+For the first time in history, that kind of relationship may be more readily available to everyone. 
+
+But it invites some interesting questions. 
+
+A good teacher doesn't just give instruction and feedback. 
+
+They inspire. 
+
+They challenge. 
+
+Sometimes, you just want to be just like them by being in their prescence.  
+
+Is there something about mastery that resists scaling? 
 

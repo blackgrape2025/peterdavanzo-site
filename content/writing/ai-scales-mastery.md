@@ -38,7 +38,7 @@ At scale.
 
 For free.
 
-For the first time in history, that kind of relationship may be more readily available to everyone. 
+For the first time in history, that kind of relationship may be available to everyone. 
 
 Which is great, but it invites some interesting questions. 
 

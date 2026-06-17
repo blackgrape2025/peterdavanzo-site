@@ -24,11 +24,7 @@ For most of history, this is how people learned mastery.
 
 They became apprentices.
 
-Mostly, modern education works differently. 
-
-Apprenticeship is more intensive. 
-
-The challenge is that feedback doesn't scale.
+The challenge is that apprenticeship requires constant feedback - which doesn't scale.
 
 Until now, perhaps? 
 
@@ -38,15 +34,13 @@ At three in the morning.
 
 Patiently.
 
-Repeatedly.
+At scale. 
 
 For free.
 
-At scale. 
-
 For the first time in history, that kind of relationship may be more readily available to everyone. 
 
-But it invites some interesting questions. 
+Which is great, but it invites some interesting questions. 
 
 A good teacher doesn't just give instruction and feedback. 
 
@@ -56,5 +50,5 @@ They challenge.
 
 Sometimes, you just want to be just like them by being in their prescence.  
 
-Is there something about mastery that resists scaling? 
+Is there something about achieving mastery that resists scaling? 
 

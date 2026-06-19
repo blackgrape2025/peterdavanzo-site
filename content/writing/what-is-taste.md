@@ -4,7 +4,7 @@ description: What Is Taste? Can We Write A Rule For It?
 date: 2026-06-19
 
 ---
-1991.
+**1991.**
 
 Kurt Cobain launches himself at Dave Grohl's drum kit.
 

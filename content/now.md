@@ -7,7 +7,7 @@ permalink: /now/
 
 *Updated 26 June 2026.*
 
-Reading [Seeing Like A State](https://en.wikipedia.org/wiki/Seeing_Like_a_State) by James C Scott. It's about the problems of top-down state design. Also, not designing a state, but designing something achieveable - a more creative workspace. 
+Reading [Seeing Like A State](https://en.wikipedia.org/wiki/Seeing_Like_a_State) by James C Scott. It's about the problems of top-down state design. Also, I'm not designing a state, but I am designing something achieveable - a more creative workspace. 
 
 
 
